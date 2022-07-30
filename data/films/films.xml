@@ -1,0 +1,2372 @@
+<!DOCTYPE html><html><head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<title>Кино онлайн - Устройте кинотеатр у себя дома! Смотрите онлайн фильмы хорошего качества в приятной домашней обстановке и в удобное для вас время. Для вас всегда доступны бесплатные фильмы, сериалы, мультфильмы, телевидение, радио</title>
+<meta name="resource-type" content="document">
+<meta name="document-state" content="dynamic">
+<meta name="distribution" content="global">
+<meta name="author" content="Alexander Tsybulski">
+<meta name="copyright" content="Alexander Tsybulski">
+<meta name="viewport" content="width=device-width">
+<meta name="keywords" content="Фильмы онлайн, Мультфильмы онлайн, Сериалы онлайн, Телевидение онлайн, Радио онлайн">
+<meta name="description" content="Устройте кинотеатр у себя дома! Смотрите онлайн фильмы хорошего качества в приятной домашней обстановке и в удобное для вас время. Для вас всегда доступны бесплатные фильмы, сериалы, мультфильмы, телевидение, радио">
+<meta name="robots" content="index, follow">
+<meta name="revisit-after" content="1 days">
+<meta name="rating" content="general">
+<link rel="shortcut icon" type="image/x-icon" href="http://www.kinoglobe.ru/favicon.ico">
+<link rel="alternate" type="application/rss+xml" href="http://www.kinoglobe.ru/services/rss" title="Новые фильмы">
+<link rel="search" type="application/opensearchdescription+xml" href="http://www.kinoglobe.ru/find.php" title="Кино онлайн - Search">
+<link rel="stylesheet" href="http://www.kinoglobe.ru/templates/cinema/style.css" type="text/css">
+
+
+<link rel="apple-touch-icon" sizes="57x57" href="http://www.kinoglobe.ru/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="http://www.kinoglobe.ru/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="http://www.kinoglobe.ru/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="http://www.kinoglobe.ru/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="http://www.kinoglobe.ru/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="http://www.kinoglobe.ru/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="http://www.kinoglobe.ru/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="http://www.kinoglobe.ru/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="http://www.kinoglobe.ru/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192" href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://www.kinoglobe.ru/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="http://www.kinoglobe.ru/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="http://www.kinoglobe.ru/favicon-16x16.png">
+<link rel="manifest" href="http://www.kinoglobe.ru/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="http://www.kinoglobe.ru/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="http://www.kinoglobe.ru/templates/cinema/css/scroll/css/scrollable-horizontal_2.css" type="text/css">
+<link rel="stylesheet" href="http://www.kinoglobe.ru/templates/cinema/css/scroll/css/scrollable-buttons_1.css" type="text/css">
+<link rel="stylesheet" href="http://www.kinoglobe.ru/templates/cinema/css/css/my_main_2.css" type="text/css">
+<link rel="stylesheet" href="http://www.kinoglobe.ru/templates/cinema/css/css/template_8.css" type="text/css">
+<link type="text/css" rel="stylesheet" href="http://www.kinoglobe.ru/templates/cinema/css/news.css">
+<link rel="stylesheet" type="text/css" href="http://www.kinoglobe.ru/templates/cinema/css/jquery.auto-complete.css">
+<link rel="stylesheet" id="edgtf_ion_icons-css" href="http://www.kinoglobe.ru/css/jquery.fancybox.min.css" type="text/css" media="all">
+<link type="text/css" rel="stylesheet" href="http://www.kinoglobe.ru/css/login_2.css">
+<link type="text/css" rel="stylesheet" href="http://www.kinoglobe.ru/css/login_link.css">
+<link type="text/css" rel="stylesheet" href="http://www.kinoglobe.ru/css/login_reg_1.css">
+<link rel="stylesheet" id="edgtf_ion_icons-css" href="http://www.kinoglobe.ru/css/style_form.css" type="text/css" media="all">
+<link rel="stylesheet" href="http://www.kinoglobe.ru/css/slick/slick.css" type="text/css" media="all">
+<link rel="stylesheet" href="http://www.kinoglobe.ru/css/slick/slick-theme_1.css" type="text/css" media="all">
+<link type="text/css" rel="stylesheet" href="http://www.kinoglobe.ru/templates/cinema/css/watched.css">
+<link type="text/css" rel="stylesheet" href="http://www.kinoglobe.ru/templates/cinema/css/top_1.css">
+<link type="text/css" rel="stylesheet" href="http://www.kinoglobe.ru/templates/cinema/css/watchedScroll_4.css">
+<link href="http://www.kinoglobe.ru/css/scrollVideoHor/css/scroll_horiz_video_3.css" type="text/css" rel="stylesheet">
+<link href="http://www.kinoglobe.ru/css/scrollVideoHor/css/scrolling_horiz.css" type="text/css" rel="stylesheet">
+<link href="http://www.kinoglobe.ru/css/scrollVideoHor/css/videoclip_1.css" type="text/css" rel="stylesheet">
+<link href="http://www.kinoglobe.ru/css/video-js-1.css" type="text/css" rel="stylesheet">
+<script src="http://www.kinoglobe.ru/includes/js/jquery-2.2.0.min.js?t=1643564535"></script>
+<script src="http://www.kinoglobe.ru/includes/js/slick.min.js?t=1643564535"></script>
+<script src="http://www.kinoglobe.ru/includes/js/my_scroll_5_1.min.js?t=1643564535"></script>
+<script type="text/javascript" src="http://www.kinoglobe.ru/includes/js/jquery.fancybox.min.js?t=1643564535"></script>
+<script src="http://www.kinoglobe.ru/includes/js/get_login_14.min.js?t=1643564535"></script>
+<script type="text/javascript" src="http://www.kinoglobe.ru/includes/js/videoclip_8.js?t=1643564535"></script>
+<script type="text/javascript" src="http://www.kinoglobe.ru/includes/js/video.js?t=1643564535"></script>
+<script type="text/javascript" src="http://www.kinoglobe.ru/includes/js/youtube.video.js?t=1643564535"></script>
+<script type="text/javascript" src="http://www.kinoglobe.ru/includes/js/jquery.auto-complete.min.js?t=1643564535"></script>
+<script language="JavaScript" type="text/javascript" src="http://www.kinoglobe.ru/js/main_1.min.js?t=1643564535"></script>
+<style type="text/css">
+#ja-header,#ja-mainnav,#ja-container,#ja-botsl,#ja-footer {width: 1220px;margin: 0 auto;}
+#ja-wrapper {min-width: 1220px;}
+</style>
+</head>
+
+<body id="bd" class="fs3 FF">
+
+<div id="ja-wrapper">
+
+<!-- BEGIN: HEADER -->
+<div id="ja-headerwrap">
+<div class="wrapReg"><div id="hdr-auth" style="display:none"><ul><li><a id="ovlogin" href="#" title="">Войти</a></li><li class="no-border no-pad-right"><a id="ovreg" href="#" class="sign_in" title="">Регистрация</a></li><li class="infoIM"><img id="tooltipImg_76469_287" height="16" width="16" style="border: 0px none ; vertical-align: top; margin-top: 2px; margin-right: 4px;" title="Зачем регистрироваться?" alt="" src="http://www.kinoglobe.ru/images/login/system-help_1.png"></li></ul></div></div>
+	<div id="ja-header" class="clearfix" style="background: url(http://www.kinoglobe.ru/templates/cinema/images/header-mask_1.jpg) no-repeat top right;">
+
+	<div class="ja-headermask">&nbsp;</div>
+	
+	
+
+			<div><h1 class="logo">
+			<a href="http://www.kinoglobe.ru/index.php" title="Кино онлайн"><img src="http://www.kinoglobe.ru/templates/cinema/images/logo_kino_7.gif"></a>
+		</h1></div>
+		<!-- START search -->
+
+<div id="masthead-search">
+<form class="search-form" name="searchForm" id="searchForm" method="get" action="http://www.kinoglobe.ru/search" autocomplete="off">
+<input id="maincat" type="hidden" value="films" name="cat">
+<input id="masthead-search-term" class="search-term" type="text" maxlength="128" size="60" value="Поиск фильма" name="word" autocomplete="off">
+
+<a id="yt-button" class="yt-button yt-button-primary" href="#" style="">
+<span>Найти</span>
+</a></form>
+
+</div>
+	
+	</div>
+</div>
+<!-- END: HEADER -->
+<div class="myPrompt"></div>
+<div style="position:absolute; left:-3000px; display:none;"><a href="#overlay" id="ovAll"></a></div>
+<div style="display:none"><div id="overlay"><div class="loading">Загрузка...<img src="http://www.kinoglobe.ru/images/loading/loading_v7.gif" width="16" height="16"></div></div></div>
+
+<div id="tabarea">
+				<div id="tabarea_l">
+					<div id="tabarea_r">
+						<div id="tabmenu">
+						<table cellpadding="0" cellspacing="0" class="pill">
+							<tbody><tr>
+								<td class="pill_l">&nbsp;</td>
+
+								<td class="pill_m">
+								<div id="pillmenu" style="">
+									<ul id="mainlevel-nav"><li><a href="http://www.kinoglobe.ru/main/" title="Фильмы ">Фильмы </a></li><li><a href="http://www.kinoglobe.ru/sequels/" title="Сериалы ">Сериалы </a></li><li><a href="http://www.kinoglobe.ru/cartoons/" title="Мультфильмы">Мультфильмы</a></li><li><a href="http://www.kinoglobe.ru/tvonline/" title="ТВ онлайн">ТВ онлайн</a></li><li><a href="http://www.kinoglobe.ru/radio/" title="Радио">Радио</a></li><li><a href="http://www.kinoglobe.ru/favorites/" title="Фильмотека">Фильмотека<img src="http://www.kinoglobe.ru/templates/cinema/images/ticks2.gif"></a></li><li><a href="http://www.kinoglobe.ru/contact/" title="Обратная связь">Обратная связь</a></li><li><a href="http://www.kinoglobe.ru/Gbook/" title="Гостевая">Гостевая</a></li><li><a href="http://www.kinoglobe.ru/search/" title="Поиск">Поиск</a></li><li class="last"><a href="http://www.kinoglobe.ru/dvd/" title="DVD &amp; Blue Ray">DVD &amp; Blue Ray</a></li></ul>
+								</div>
+								</td>
+								<td class="pill_r">&nbsp;</td>
+
+							</tr>
+							</tbody></table>
+						</div>
+					</div>
+				</div>
+			</div>
+
+<!-- BEGIN: MAIN NAVIGATION -->
+<!-- END: MAIN NAVIGATION -->
+
+<div id="ja-containerwrap">
+
+<div id="ja-containerwrap2">
+	<div id="ja-container">
+	<div id="ja-container2" class="clearfix">
+
+		<div id="ja-mainbody" class="clearfix">
+
+		<!-- BEGIN: CONTENT -->
+		
+		
+		<div id="ja-contentwrap">
+		<div id="ja-content">
+
+			
+
+				<div id="ja-pathway">
+		
+			</div>
+						
+			
+		<div id="list">	
+		    
+			
+			<span class="recom"><h2><a class="recomAnc" href="http://www.kinoglobe.ru/films/22904-zagovor-na-ostrove-djekill" title="Смотреть фильмы онлайн">Фильмы онлайн</a></h2>
+	</span><div id="scrolling"><a class="main-scroll-prev prevPage browse left" title="Прокрутить назад"></a>
+ <div class="scrollable">
+<div class="items">
+<div class="slider"><div><a href="http://www.kinoglobe.ru/films/10533-my-tebya-lyubim"><img src="http://www.kinoglobe.ru/cinema/images/d2759834adbe51f48e39fe12cce84dfb.jpg" title="Смотреть фильм Мы тебя любим"></a><br><div id="film_name"><a href="http://www.kinoglobe.ru/films/10533-my-tebya-lyubim" title="Смотреть фильм Мы тебя любим">Мы тебя любим</a></div></div>
+<div><a href="http://www.kinoglobe.ru/films/10494-utinoe-maslo"><img src="http://www.kinoglobe.ru/cinema/images/274c63edc0ec2905809426e7e6c8f042.jpg" title="Смотреть фильм Утиное масло"></a><br><div id="film_name"><a href="http://www.kinoglobe.ru/films/10494-utinoe-maslo" title="Смотреть фильм Утиное масло">Утиное масло</a></div></div>
+<div><a href="http://www.kinoglobe.ru/films/18337-zapretnaya-territoriya"><img src="http://www.kinoglobe.ru/cinema/images/7a7c3557624e61c4969da2e564d046d1.jpg" title="Смотреть фильм Запретная территория"></a><br><div id="film_name"><a href="http://www.kinoglobe.ru/films/18337-zapretnaya-territoriya" title="Смотреть фильм Запретная территория">Запретная территория</a></div></div>
+<div><a href="http://www.kinoglobe.ru/films/5592-ozero"><img src="http://www.kinoglobe.ru/cinema/images/425623.jpg" title="Смотреть фильм Озеро"></a><br><div id="film_name"><a href="http://www.kinoglobe.ru/films/5592-ozero" title="Смотреть фильм Озеро">Озеро</a></div></div>
+<div><a href="http://www.kinoglobe.ru/films/22634-zvezdnyy-put-vozmezdie"><img src="http://www.kinoglobe.ru/cinema/images/462fa5b31d45146d2c5c0d2ba8bc0074.jpg" title="Смотреть фильм Звездный путь: Возмездие"></a><br><div id="film_name"><a href="http://www.kinoglobe.ru/films/22634-zvezdnyy-put-vozmezdie" title="Смотреть фильм Звездный путь: Возмездие">Звездный путь: Возмездие</a></div></div>
+<div><a href="http://www.kinoglobe.ru/films/9607-uchitelnitsa"><img src="http://www.kinoglobe.ru/cinema/images/ef98413ed46aa3efbbe7f282dece58ac.jpg" title="Смотреть фильм Учительница"></a><br><div id="film_name"><a href="http://www.kinoglobe.ru/films/9607-uchitelnitsa" title="Смотреть фильм Учительница">Учительница</a></div></div>
+<div><a href="http://www.kinoglobe.ru/films/16896-gromche-chem-bomby"><img src="http://www.kinoglobe.ru/cinema/images/5cb616278c22c69bf14499d53ee1c72f.jpg" title="Смотреть фильм Громче, чем бомбы"></a><br><div id="film_name"><a href="http://www.kinoglobe.ru/films/16896-gromche-chem-bomby" title="Смотреть фильм Громче, чем бомбы">Громче, чем бомбы</a></div></div>
+<div><a href="http://www.kinoglobe.ru/films/11698-vyhodya"><img src="http://www.kinoglobe.ru/cinema/images/212d666a6a34967dc1e704aa9ea56565.jpg" title="Смотреть фильм Выходя"></a><br><div id="film_name"><a href="http://www.kinoglobe.ru/films/11698-vyhodya" title="Смотреть фильм Выходя">Выходя</a></div></div>
+<div><a href="http://www.kinoglobe.ru/films/8892-sex-kofe-sigarety"><img src="http://www.kinoglobe.ru/cinema/images/c62ea56961be7faaaaa0848b096ac068.jpg" title="Смотреть фильм Sex, кофе, сигареты"></a><br><div id="film_name"><a href="http://www.kinoglobe.ru/films/8892-sex-kofe-sigarety" title="Смотреть фильм Sex, кофе, сигареты">Sex, кофе, сигареты</a></div></div>
+<div><a href="http://www.kinoglobe.ru/films/16432-puteshestvenniki"><img src="http://www.kinoglobe.ru/cinema/images/33b703fd4ebd97b6ac77e54b8e1ae18f.jpg" title="Смотреть фильм Путешественники"></a><br><div id="film_name"><a href="http://www.kinoglobe.ru/films/16432-puteshestvenniki" title="Смотреть фильм Путешественники">Путешественники</a></div></div>
+<div><a href="http://www.kinoglobe.ru/films/21457-podmena"><img src="http://www.kinoglobe.ru/cinema/images/e33659463eb944cdc34d76831033fbd0.jpg" title="Смотреть фильм Подмена"></a><br><div id="film_name"><a href="http://www.kinoglobe.ru/films/21457-podmena" title="Смотреть фильм Подмена">Подмена</a></div></div>
+<div><a href="http://www.kinoglobe.ru/films/14204-bokser"><img src="http://www.kinoglobe.ru/cinema/images/0680e4c4be76c00b035798d7ee4c3709.jpg" title="Смотреть фильм Боксер"></a><br><div id="film_name"><a href="http://www.kinoglobe.ru/films/14204-bokser" title="Смотреть фильм Боксер">Боксер</a></div></div>
+<div><a href="http://www.kinoglobe.ru/films/4581-mama"><img src="http://www.kinoglobe.ru/cinema/images/0d65e7c378dbdb6c53cb6cc72c774c27.jpg" title="Смотреть фильм Мама"></a><br><div id="film_name"><a href="http://www.kinoglobe.ru/films/4581-mama" title="Смотреть фильм Мама">Мама</a></div></div>
+<div><a href="http://www.kinoglobe.ru/films/20288-sad-zemnyh-naslajdeniy"><img src="http://www.kinoglobe.ru/cinema/images/28360c1dc565ab1979b53e50219f987e.jpg" title="Смотреть фильм Сад земных наслаждений"></a><br><div id="film_name"><a href="http://www.kinoglobe.ru/films/20288-sad-zemnyh-naslajdeniy" title="Смотреть фильм Сад земных наслаждений">Сад земных наслаждений</a></div></div>
+<div><a href="http://www.kinoglobe.ru/films/1626-tropa-smerti-2-iskuplenie"><img src="http://www.kinoglobe.ru/cinema/images/da8ffa8e9d4d7d4ed686d23e21e71562.jpg" title="Смотреть фильм Тропа смерти 2: Искупление"></a><br><div id="film_name"><a href="http://www.kinoglobe.ru/films/1626-tropa-smerti-2-iskuplenie" title="Смотреть фильм Тропа смерти 2: Искупление">Тропа смерти 2: Искупление</a></div></div>
+<div><a href="http://www.kinoglobe.ru/films/7373-pererostki"><img src="http://www.kinoglobe.ru/cinema/images/5d0db5ef7792ac520ae448102f14eb31.jpg" title="Смотреть фильм Переростки"></a><br><div id="film_name"><a href="http://www.kinoglobe.ru/films/7373-pererostki" title="Смотреть фильм Переростки">Переростки</a></div></div>
+<div><a href="http://www.kinoglobe.ru/films/10625-lyubov-bez-tormozov"><img src="http://www.kinoglobe.ru/cinema/images/ca06eff1e5e99211ffba962ca0781ee7.jpg" title="Смотреть фильм Любовь без тормозов"></a><br><div id="film_name"><a href="http://www.kinoglobe.ru/films/10625-lyubov-bez-tormozov" title="Смотреть фильм Любовь без тормозов">Любовь без тормозов</a></div></div>
+<div><a href="http://www.kinoglobe.ru/films/17596-mobi-dik-ohota-na-monstra"><img src="http://www.kinoglobe.ru/cinema/images/e1048731d778edc823f82b0569b8ffb5.jpg" title="Смотреть фильм Моби Дик: Охота на монстра"></a><br><div id="film_name"><a href="http://www.kinoglobe.ru/films/17596-mobi-dik-ohota-na-monstra" title="Смотреть фильм Моби Дик: Охота на монстра">Моби Дик: Охота на монстра</a></div></div>
+<div><a href="http://www.kinoglobe.ru/films/5583-taksidermist"><img src="http://www.kinoglobe.ru/cinema/images/7979.jpg" title="Смотреть фильм Таксидермист"></a><br><div id="film_name"><a href="http://www.kinoglobe.ru/films/5583-taksidermist" title="Смотреть фильм Таксидермист">Таксидермист</a></div></div>
+<div><a href="http://www.kinoglobe.ru/films/9232-studiya-seksa"><img src="http://www.kinoglobe.ru/cinema/images/57a27b7ec77659df048cadfd3aad2075.jpg" title="Смотреть фильм Студия секса"></a><br><div id="film_name"><a href="http://www.kinoglobe.ru/films/9232-studiya-seksa" title="Смотреть фильм Студия секса">Студия секса</a></div></div>
+</div></div></div><a class="main-scroll-next nextPage browse right" title="Прокрутить вперёд"></a></div>
+ 
+			<div class="tabs">
+<a class="cur" onclick="return false" href="http://www.kinoglobe.ru/main/0/date/asc">По дате<span class="desc"><img src="http://www.kinoglobe.ru/images/my_im/arrow_down.gif"></span></a>
+<a class="com" href="http://www.kinoglobe.ru/main/0/name">По названию</a>
+<a class="com" href="http://www.kinoglobe.ru/main/0/rating">По рейтингу</a>
+<a class="com" href="http://www.kinoglobe.ru/main/0/year">По году</a>
+<a class="com" href="http://www.kinoglobe.ru/main/0/watched">По просмотрам</a>
+
+</div>
+
+
+
+<div class="tabs-cont"></div>
+<div class="inner">
+
+
+<div class="column"><ul><li><a class="hlight" onclick="return false" href="http://www.kinoglobe.ru/main/0/">Все</a><span>(20900)</span></li><li><a href="http://www.kinoglobe.ru/main/1/">биография</a><span>(637)</span></li><li><a href="http://www.kinoglobe.ru/main/2/">боевик</a><span>(3703)</span></li><li><a href="http://www.kinoglobe.ru/main/3/">вестерн</a><span>(161)</span></li><li><a href="http://www.kinoglobe.ru/main/4/">военный</a><span>(591)</span></li><li><a href="http://www.kinoglobe.ru/main/5/">детектив</a><span>(1381)</span></li></ul></div><div class="column"><ul><li><a href="http://www.kinoglobe.ru/main/6/">документальный</a><span>(567)</span></li><li><a href="http://www.kinoglobe.ru/main/7/">драма</a><span>(9141)</span></li><li><a href="http://www.kinoglobe.ru/main/8/">индийский</a><span>(296)</span></li><li><a href="http://www.kinoglobe.ru/main/9/">исторический</a><span>(333)</span></li><li><a href="http://www.kinoglobe.ru/main/10/">катастрофы</a><span>(11)</span></li><li><a href="http://www.kinoglobe.ru/main/11/">комедия</a><span>(6297)</span></li></ul></div><div class="column"><ul><li><a href="http://www.kinoglobe.ru/main/12/">криминал</a><span>(2506)</span></li><li><a href="http://www.kinoglobe.ru/main/13/">мелодрама</a><span>(3661)</span></li><li><a href="http://www.kinoglobe.ru/main/14/">музыкальный</a><span>(224)</span></li><li><a href="http://www.kinoglobe.ru/main/15/">отечественный</a><span>(908)</span></li><li><a href="http://www.kinoglobe.ru/main/16/">приключения</a><span>(1690)</span></li><li><a href="http://www.kinoglobe.ru/main/17/">семейный</a><span>(936)</span></li></ul></div><div class="column"><ul><li><a href="http://www.kinoglobe.ru/main/18/">сказка</a><span>(29)</span></li><li><a href="http://www.kinoglobe.ru/main/19/">спорт</a><span>(359)</span></li><li><a href="http://www.kinoglobe.ru/main/20/">триллер</a><span>(5267)</span></li><li><a href="http://www.kinoglobe.ru/main/21/">ужасы</a><span>(2782)</span></li><li><a href="http://www.kinoglobe.ru/main/22/">фантастика</a><span>(1871)</span></li><li><a href="http://www.kinoglobe.ru/main/23/">фэнтези</a><span>(945)</span></li></ul></div>
+</div>
+<div class="clear_all"></div>
+
+
+<div class="shpages"><div class="lst"><span class="current">1</span>
+<a class="pages" href="http://www.kinoglobe.ru/main/0/date/desc/2" title="2">2</a>
+<a class="pages" href="http://www.kinoglobe.ru/main/0/date/desc/3" title="3">3</a>
+<a class="pages" href="http://www.kinoglobe.ru/main/0/date/desc/4" title="4">4</a>
+<a class="pages" href="http://www.kinoglobe.ru/main/0/date/desc/5" title="5">5</a>
+<span class="points">...</span><a class="pages" href="http://www.kinoglobe.ru/main/0/date/desc/3009" title="6">3009</a><a class="im" href="http://www.kinoglobe.ru/main/0/date/desc/2" title="Next page"><img src="http://www.kinoglobe.ru/images/img/w1_right.gif" width="20" border="0"></a></div></div><div class="line"></div><div class="films-list"><div class="film">
+<div class="img"><a href="http://www.kinoglobe.ru/films/22904-zagovor-na-ostrove-djekill"><img border="0" title="Заговор на острове Джекилл" alt="Заговор на острове Джекилл" src="http://www.kinoglobe.ru/cinema/images/a15579f9d296de30d8004acb7641279f.jpg" width="180" height="250"></a>
+<div class="view-count">Просмотров:490</div>
+<div class="rating-30" title="Оценка 3"></div>
+</div>
+
+<div class="content">
+    <div class="title"><a href="http://www.kinoglobe.ru/films/22904-zagovor-na-ostrove-djekill">Заговор на острове Джекилл</a></div>
+	<div class="origin">( Jekyll Island )</div>
+	<div class="genres">криминал, триллер</div>
+	<div class="director"><strong>Режисёр:</strong> Арам Раппапорт</div>
+<div class="actors"><strong>В ролях:</strong> Дианна Агрон, Кристофер Макдональд, Джон Легуизамо, Минни Драйвер, Эд Вествик, Фрэнк</div>
+<div class="descr"><strong>Описание:</strong> Министр финансов США просит бывшего сотрудника Уолл-стрит помочь в отражении кибератаки, угрожающей уничтожить американскую экономику. Он с помощью жены привлекает команду неудачников и готовит их к спасению мира от экономического коллапса.</div>
+<div class="year"><strong>Год:</strong> 2017</div><div style="clear:both; float:left;"></div>
+<div class="go_watch"><a href="http://www.kinoglobe.ru/films/22904-zagovor-na-ostrove-djekill"><span>Смотреть фильм</span></a></div>
+
+             </div>
+	  
+	  </div><div class="film">
+<div class="img"><a href="http://www.kinoglobe.ru/films/22903-uj-kto-by-govoril"><img border="0" title="Уж кто бы говорил" alt="Уж кто бы говорил" src="http://www.kinoglobe.ru/cinema/images/e0dd32e3a42297af284aa91b8f4576a5.jpg" width="180" height="250"></a>
+<div class="view-count">Просмотров:508</div>
+<div class="rating-40" title="Оценка 4"></div>
+</div>
+
+<div class="content">
+    <div class="title"><a href="http://www.kinoglobe.ru/films/22903-uj-kto-by-govoril">Уж кто бы говорил</a></div>
+	<div class="origin">( Look Whos Talking )</div>
+	<div class="genres">комедия</div>
+	<div class="director"><strong>Режисёр:</strong> Эми Хекерлинг</div>
+<div class="actors"><strong>В ролях:</strong> Джейкоб Хайнс, Эйб Вигода, Джордж Сигал, Кёрсти Элли, Олимпия Дукакис, Брюс Уиллис,</div>
+<div class="descr"><strong>Описание:</strong> Молодая, но уже не юная Молли - будущая мать-одиночка. По дороге в роддом она знакомится с сердобольным таксистом Джеймсом. И с этого момента Джеймс становится другом молодой мамы и сиделкой для малыша Мики.</div>
+<div class="year"><strong>Год:</strong> 1989</div><div style="clear:both; float:left;"></div>
+<div class="go_watch"><a href="http://www.kinoglobe.ru/films/22903-uj-kto-by-govoril"><span>Смотреть фильм</span></a></div>
+
+             </div>
+	  
+	  </div><div class="film">
+<div class="img"><a href="http://www.kinoglobe.ru/films/22902-shalnaya-karta"><img border="0" title="Шальная карта" alt="Шальная карта" src="http://www.kinoglobe.ru/cinema/images/62965e72316be32dd46417190a27a8e7.jpg" width="180" height="250"></a>
+<div class="view-count">Просмотров:486</div>
+<div class="rating-30" title="Оценка 3"></div>
+</div>
+
+<div class="content">
+    <div class="title"><a href="http://www.kinoglobe.ru/films/22902-shalnaya-karta">Шальная карта</a></div>
+	<div class="origin">( Wild Card )</div>
+	<div class="genres">боевик, драма, криминал, триллер</div>
+	<div class="director"><strong>Режисёр:</strong> Саймон Уэст</div>
+<div class="actors"><strong>В ролях:</strong> Хоуп Дэвис, Майкл Ангарано, Доминик Гарсиа-Лоридо, Майло Вентимилья, Энн Хеч, Джейсон</div>
+<div class="descr"><strong>Описание:</strong> Главный герой - бывший военный Ник Уайлд - работает в Лас-Вегасе охранником, мечтает накопить денег и навсегда уехать на остров Корсика. Но Ник соглашается помочь давней знакомой Холли, постоянно подвергающейся насилию со стороны сына крупного гангстера, из-за чего его отъезд откладывается.</div>
+<div class="year"><strong>Год:</strong> 2014</div><div style="clear:both; float:left;"></div>
+<div class="go_watch"><a href="http://www.kinoglobe.ru/films/22902-shalnaya-karta"><span>Смотреть фильм</span></a></div>
+
+             </div>
+	  
+	  </div><div class="film">
+<div class="img"><a href="http://www.kinoglobe.ru/films/22901-magazin-«imperiya»"><img border="0" title="Магазин «Империя»" alt="Магазин «Империя»" src="http://www.kinoglobe.ru/cinema/images/7d695d4efdcdab9c58916fd633d4f249.jpg" width="180" height="250"></a>
+<div class="view-count">Просмотров:397</div>
+<div class="rating-30" title="Оценка 3"></div>
+</div>
+
+<div class="content">
+    <div class="title"><a href="http://www.kinoglobe.ru/films/22901-magazin-«imperiya»">Магазин «Империя»</a></div>
+	<div class="origin">( Empire Records )</div>
+	<div class="genres">мелодрама, драма, комедия, музыкальный</div>
+	<div class="director"><strong>Режисёр:</strong> Аллан Мойле</div>
+<div class="actors"><strong>В ролях:</strong> Робин Танни, Максвелл Колфилд, Рене Зеллвегер, Рори Кокрейн, Энтони ЛаПалья, Лив Тайлер,</div>
+<div class="descr"><strong>Описание:</strong> Лукас обчистил кассу, Кори решила раз и навсегда расстаться с невинностью. Эй Джей должен объясниться ей в любви, Дэбра постриглась наголо, а пятнадцатилетний бандит по кличке «Уоррен Битти» явился, чтобы ограбить магазин. И все это в один день. Со всем этим и со многим другим предстоит разобраться менеджеру «Империи» Джо и еще не допустить, чтобы его детище поглотила большая компания.</div>
+<div class="year"><strong>Год:</strong> 1995</div><div style="clear:both; float:left;"></div>
+<div class="go_watch"><a href="http://www.kinoglobe.ru/films/22901-magazin-«imperiya»"><span>Смотреть фильм</span></a></div>
+
+             </div>
+	  
+	  </div><div class="film">
+<div class="img"><a href="http://www.kinoglobe.ru/films/22900-rojdennyy-zashshishshat"><img border="0" title="Рожденный защищать" alt="Рожденный защищать" src="http://www.kinoglobe.ru/cinema/images/bc32fd1af41f9c8b5bb3efc4ec24049d.jpg" width="180" height="250"></a>
+<div class="view-count">Просмотров:339</div>
+<div class="rating-30" title="Оценка 3"></div>
+</div>
+
+<div class="content">
+    <div class="title"><a href="http://www.kinoglobe.ru/films/22900-rojdennyy-zashshishshat">Рожденный защищать</a></div>
+	<div class="origin">( Zhong hua ying xiong )</div>
+	<div class="genres">боевик, военный</div>
+	<div class="director"><strong>Режисёр:</strong> Джет Ли</div>
+<div class="actors"><strong>В ролях:</strong> Zhanghe Gao, Джет Ли, Фань Дунъюй, Питер Дойл, Кит Энтони, Уинг Чо, Чэнь Каймин, Кэм</div>
+<div class="descr"><strong>Описание:</strong> Конец Второй мировой войны. Молодой китайский паренек возвращается после войны с японцами в родной город, чтобы разыскать армейского друга. Он узнает, что местным жителям, после того, как в город вошли американцы, живется не многим лучше, чем под японцами.</div>
+<div class="year"><strong>Год:</strong> 1986</div><div style="clear:both; float:left;"></div>
+<div class="go_watch"><a href="http://www.kinoglobe.ru/films/22900-rojdennyy-zashshishshat"><span>Смотреть фильм</span></a></div>
+
+             </div>
+	  
+	  </div><div class="film">
+<div class="img"><a href="http://www.kinoglobe.ru/films/22898-kosmos-mejdu-nami"><img border="0" title="Космос между нами" alt="Космос между нами" src="http://www.kinoglobe.ru/cinema/images/a28c0b9adef5f9ab19636721893da7f0.jpg" width="180" height="250"></a>
+<div class="view-count">Просмотров:271</div>
+<div class="rating-30" title="Оценка 3"></div>
+</div>
+
+<div class="content">
+    <div class="title"><a href="http://www.kinoglobe.ru/films/22898-kosmos-mejdu-nami">Космос между нами</a></div>
+	<div class="origin">( The Space Between Us )</div>
+	<div class="genres">мелодрама, драма, фантастика</div>
+	<div class="director"><strong>Режисёр:</strong> Питер Челсом</div>
+<div class="actors"><strong>В ролях:</strong> Трей Такер, Сара Минник, Джанет Монтгомери, Гари Олдман, Скотт Такеда, Эйса Баттерфилд,</div>
+<div class="descr"><strong>Описание:</strong> Межпланетная история любви земной девушки и Гарднера Эллиота, выросшего в экспериментальной колонии на Марсе. Их роман начался в интернете, и теперь Эллиот летит на Землю, чтобы встретиться с возлюбленной...</div>
+<div class="year"><strong>Год:</strong> 2016</div><div style="clear:both; float:left;"></div>
+<div class="go_watch"><a href="http://www.kinoglobe.ru/films/22898-kosmos-mejdu-nami"><span>Смотреть фильм</span></a></div>
+
+             </div>
+	  
+	  </div><div class="film">
+<div class="img"><a href="http://www.kinoglobe.ru/films/22897-vozmojnosti-karery"><img border="0" title="Возможности карьеры" alt="Возможности карьеры" src="http://www.kinoglobe.ru/cinema/images/036e016d6513f7ea6e4cec9e581d79c1.jpg" width="180" height="250"></a>
+<div class="view-count">Просмотров:416</div>
+<div class="rating-25" title="Оценка 2.5"></div>
+</div>
+
+<div class="content">
+    <div class="title"><a href="http://www.kinoglobe.ru/films/22897-vozmojnosti-karery">Возможности карьеры</a></div>
+	<div class="origin">( Career Opportunities )</div>
+	<div class="genres">мелодрама, комедия</div>
+	<div class="director"><strong>Режисёр:</strong> Брайан Гордон</div>
+<div class="actors"><strong>В ролях:</strong> Фрэнк Уэйли, Дермот Малруни, Нада Деспотович, Ноубл Уиллингэм, Рейд Биньон, Джон М.</div>
+<div class="descr"><strong>Описание:</strong> Работать ночным сторожем в огромном супермаркете, где можно врубить музыку на всю громкость, наесться всякой всячины от пуза, кока-колы напиться на всю оставшуюся жизнь, а потом в пустом торговом зале до самого утра кататься на роликовых коньках, - может ли быть мечта прекраснее, если тебе лет 16-17 и ты представления не имеешь, чем заняться в ближайшем будущем?</div>
+<div class="year"><strong>Год:</strong> 1991</div><div style="clear:both; float:left;"></div>
+<div class="go_watch"><a href="http://www.kinoglobe.ru/films/22897-vozmojnosti-karery"><span>Смотреть фильм</span></a></div>
+
+             </div>
+	  
+	  </div></div>
+<div class="shpages"><div class="lst"><span class="current">1</span>
+<a class="pages" href="http://www.kinoglobe.ru/main/0/date/desc/2" title="2">2</a>
+<a class="pages" href="http://www.kinoglobe.ru/main/0/date/desc/3" title="3">3</a>
+<a class="pages" href="http://www.kinoglobe.ru/main/0/date/desc/4" title="4">4</a>
+<a class="pages" href="http://www.kinoglobe.ru/main/0/date/desc/5" title="5">5</a>
+<span class="points">...</span><a class="pages" href="http://www.kinoglobe.ru/main/0/date/desc/3009" title="6">3009</a><a class="im" href="http://www.kinoglobe.ru/main/0/date/desc/2" title="Next page"><img src="http://www.kinoglobe.ru/images/img/w1_right.gif" width="20" border="0"></a></div></div>
+
+
+			
+
+		
+		</div>
+
+			
+		</div>
+		</div>
+		<!-- END: CONTENT -->
+
+
+				<!-- BEGIN: LEFT COLUMN -->
+		<div id="ja-col1">
+					
+<div><div class="popular"><center><h2>Новости</h2></center></div>
+	<div style="float:left;">
+<div>
+	<div class="borderNewsLeft"></div>
+			
+		<div class="my_news">
+	<marquee hspace="2" height="400" width="190" vspace="2" truespeed="truespeed" style="cursor: pointer; color: rgb(51, 0, 102);" onmouseout="this.start();" onmouseover="this.stop();" scrollamount="2" scrolldelay="100" loop="-1" direction="up" behavior="scroll" name="mrq" id="mrq"><div><div class="ttlNews">Глава Курской области заявил о попытке обстрела погранперехода с Украины</div>
+<div class="descNews">Российские пограничники успешно подавили огневые точки ответным огнем.</div>
+<div class="putDate">6  апреля  2022г.<br>09:53:12 </div>
+<div class="ttlNews">Командующий ЦВО вручил госнаграды военным, отличившимся в спецоперации</div>
+<div class="descNews">МОСКВА, 6 апр — РИА Новости. Командующий войсками Центрального военного округа (ЦВО) генерал-полковник Александр Лапин вручил госнаграды военнослужащим, проявившим мужество и героизм в ходе специальной военной операции на Украине, сообщили в Минобороны РФ.</div>
+<div class="putDate">6  апреля  2022г.<br>09:42:27 </div>
+<div class="ttlNews">Народные приметы на 6 апреля: наблюдаем за осадками</div>
+<div class="descNews">По народным приметам в этот день можно узнать погоду на ближайшие дни и лето</div>
+<div class="putDate">6  апреля  2022г.<br>09:38:26 </div>
+<div class="ttlNews">Росавиация продлила запрет полетов на юге России</div>
+<div class="descNews">Росавиация продлила временные ограничения полетов в аэропорты юга и центральной части России до 13 апреля, сообщили РБК в пресс-службе ведомства.</div>
+<div class="putDate">6  апреля  2022г.<br>09:04:50 </div>
+<div class="ttlNews">Постпред США при ООН: нельзя исключить Россию из СБ, но можно ее «изолировать» там</div>
+<div class="descNews">Исключение России из Совета безопасности ООН невозможно, однако США и их союзники будут делать все, чтобы сделать ее пребывание в этом органе «очень некомфортным». Об этом заявила постоянный представитель США при ООН Линда Томас-Гринфилд.</div>
+<div class="putDate">6  апреля  2022г.<br>07:31:04 </div>
+<div class="ttlNews">В России предложили установить особый правовой режим для майнинга</div>
+<div class="descNews">МОСКВА, 6 апр — РИА Новости. Минпромторг и Минстрой России совместно с другими федеральными органами и представителями бизнес-сообщества подготовили предложения об установлении экспериментального правового режима для майнинга, говорится в ответе главы министерства промышленности и торговли Дениса Мантурова на предложения депутата Госдумы от «Единой России» Антона Горелкина.</div>
+<div class="putDate">6  апреля  2022г.<br>07:19:48 </div>
+<div class="ttlNews">Эксперт: мошенники рассылают письма о компенсациях переболевшим COVID-19</div>
+<div class="descNews">МОСКВА, 6 апр — РИА Новости. Мошенники стали рассылать россиянам электронные письма с предложением переболевшим COVID-19 оставить заявку на получение компенсации, сообщили РИА Новости эксперты платформы ОНФ «Мошеловка».</div>
+<div class="putDate">6  апреля  2022г.<br>06:54:59 </div>
+<div class="ttlNews">Канада ввела санкции против Михельсона, Потанина и Вексельберга</div>
+<div class="descNews">Под канадские санкции также попали акционер «Сибура» Кирилл Шамалов и экс-глава совета директоров ТМК Дмитрий Пумпянский.</div>
+<div class="putDate">6  апреля  2022г.<br>06:32:54 </div>
+<div class="ttlNews">Intel приостановил работу в России</div>
+<div class="descNews">НЬЮ-ЙОРК, 6 апреля. /ТАСС/. Американская компания Intel, которая является одним из ведущих поставщиков микропроцессоров, приостанавливает свою деятельность в России из-за ситуации вокруг Украины. Об этом сообщила во вторник пресс-служба компании.</div>
+<div class="putDate">6  апреля  2022г.<br>05:51:11 </div>
+<div class="ttlNews">Ограничения на продажу в одни руки затронули около 20 товаров</div>
+<div class="descNews">За последний месяц ограничения на продажу в одни руки коснулись около 20 наименований базовых товаров, подсчитали «Известия», опросив крупнейшие торговые сети.</div>
+<div class="putDate">6  апреля  2022г.<br>05:45:15 </div>
+<div class="ttlNews">Байден выделил Украине еще 0 млн военной помощи</div>
+<div class="descNews">США направят Украине еще 0 млн в качестве военной помощи на фоне российской военной операции в этой стране. Соответствующее постановление подписал президент США Джо Байден. Отмечается, что для этого придется урезать финансирование Минобороны США.</div>
+<div class="putDate">6  апреля  2022г.<br>05:01:32 </div>
+<div class="ttlNews">Банк России назвал криптовалюты финансовой пирамидой</div>
+<div class="descNews">МОСКВА, 6 апр — РИА Новости. Легализация оборота криптовалют может привести к тому, что граждане начнут активно инвестировать в высокоспекулятивный инструмент, который фактически является финансовой пирамидой, говорится в ответе первого зампредседателя Центробанка Ксении Юдаевой на предложения депутата Госдумы от «Единой России» Антона Горелкина.</div>
+<div class="putDate">6  апреля  2022г.<br>03:56:34 </div>
+<div class="ttlNews">Глава МИД Австрии назвал условие для высылки российских дипломатов</div>
+<div class="descNews">По словам Александера Шалленберга, Австрия начнет высылать российских дипломатов только при доказательствах несоблюдения ими Венской конвенции.</div>
+<div class="putDate">6  апреля  2022г.<br>03:19:04 </div>
+<div class="ttlNews">Латвия заморозила недвижимость граждан РФ на 100 миллионов евро</div>
+<div class="descNews">Министр юстиции Латвии Янис Борданс сообщил, что страна заморозила недвижимость россиян на сумму более 100 млн евро. Об этом пишет РБК.</div>
+<div class="putDate">6  апреля  2022г.<br>02:39:18 </div>
+<div class="ttlNews">Матвиенко назвала парламент России одним из лучших в мире</div>
+<div class="descNews">Председатель Совета Федерации Валентина Матвиенко заявила, что парламент России превосходит законодательные органы многих стран по открытости, прозрачности и оперативности работы. Своим мнением она поделилась в интервью «Парламентской газете».</div>
+<div class="putDate">6  апреля  2022г.<br>01:42:19 </div>
+<div class="ttlNews">Псаки отвергла возможность исключения России из СБ ООН</div>
+<div class="descNews">Соединенные Штаты Америки не видят способа исключить Россию из состава постоянных членов Совета безопасности ООН. Такое заявление сделала пресс-секретарь Белого Дома Дженнифер Псаки во вторник, 5 апреля, на брифинге, трансляцию которого вел официальный YouTube-канал Белого дома.</div>
+<div class="putDate">6  апреля  2022г.<br>01:00:59 </div>
+<div class="ttlNews">Налоговики и полиция начали борьбу с теневой продажей валюты</div>
+<div class="descNews">ФНС поручила территориальным органам заняться вместе с МВД выявлением валютных спекулянтов, выяснил РБК. Пресекать будут куплю-продажу валюты «с рук». Такие операции не подпадают под антисанкционные послабления валютного контроля.</div>
+<div class="putDate">6  апреля  2022г.<br>00:29:21 </div>
+<div class="ttlNews">Ковидный провал: нарушения памяти после коронавируса могут быть необратимыми</div>
+<div class="descNews">У каких пациентов медики наблюдают такие последствия чаще всего.</div>
+<div class="putDate">6  апреля  2022г.<br>00:09:41 </div>
+<div class="ttlNews">Два российских музея вошли в топ-3 самых посещаемых в мире</div>
+<div class="descNews">Авторитетная в мире искусства газета The Art Newspaper опубликовала рейтинг самых посещаемых музеев мира в прошлом году. Два из них — Русский музей и Мультимедиа Арт музей (МАММ) — в первой тройке, а всего в первой десятке — четыре российских музея: еще Эрмитаж и Третьяковская галерея. В целом в выборке участвовало 370 музеев.</div>
+<div class="putDate">5  апреля  2022г.<br>23:45:29 </div>
+<div class="ttlNews">США, Британия и Австралия договорились разрабатывать гиперзвуковое оружие</div>
+<div class="descNews">Лидеры оборонного альянса AUKUS (название образовано по составу участников: Australia, United Kingdom, United States) премьер-министр Австралии Скотт Моррисон, премьер-министр Великобритании Борис Джонсон и президент США Джозеф Байден объявили о начале нового сотрудничества в области гиперзвука и контргиперзвука, а также в сфере оборонных инноваций.</div>
+<div class="putDate">5  апреля  2022г.<br>21:37:32 </div>
+<div class="newsTime"></div></div></marquee>
+	    	 </div>
+			 			<div class="borderNewsRight"></div>
+						</div>
+	<div style="margin-bottom:40px;clear:both;float:left"></div>
+	
+ </div>
+
+</div>
+
+
+
+ <div>	
+	<div style="clear:both;  margin-bottom:50px"></div><div class="filmcategories watchedAll watchedTV"><div class="popular"><h2>DVD &amp; Blue-Ray</h2></div>
+<div><div class="goPrev"><a class="carousel-nav carousel-prev prevWatched prevDVD" onclick="return false" href="#"></a></div><div style="clear:both"></div><div class="dvdScroll"><div class="watchedItems">
+<div class="videoDVD"><div class="rel showWatched">
+<div class="clear"></div>
+<a class="hLink" href="http://www.kinoglobe.ru/dvd?v=24067">
+<img title="Письмо трем женам" alt="Письмо трем женам" src="http://www.kinoglobe.ru/info/images/dvd/images_logo/120_kinoglobe_1000491980.jpg" width="60" height="80">
+</a>
+<div class="easyfix">
+<h4>
+<a href="http://www.kinoglobe.ru/dvd?v=24067" title="Письмо трем женам">Письмо трем женам</a>
+</h4>
+<div class="genrez">2007</div>
+<div style="clear:both"></div>
+<div class="genrez">Драма</div>
+</div>
+</div>
+
+<div class="rel showWatched">
+<div class="clear"></div>
+<a class="hLink" href="http://www.kinoglobe.ru/dvd?v=20689">
+<img title="Закон доблести" alt="Закон доблести" src="http://www.kinoglobe.ru/info/images/dvd/images_logo/120_kinoglobe_1005540058.jpg" width="60" height="80">
+</a>
+<div class="easyfix">
+<h4>
+<a href="http://www.kinoglobe.ru/dvd?v=20689" title="Закон доблести">Закон доблести</a>
+</h4>
+<div class="genrez">2012</div>
+<div style="clear:both"></div>
+<div class="genrez">Военный</div>
+</div>
+</div>
+
+<div class="rel showWatched">
+<div class="clear"></div>
+<a class="hLink" href="http://www.kinoglobe.ru/dvd?v=31877">
+<img title="Танцовщик" alt="Танцовщик" src="http://www.kinoglobe.ru/info/images/dvd/images_logo/120_kinoglobe_1021803439.jpg" width="60" height="80">
+</a>
+<div class="easyfix">
+<h4>
+<a href="http://www.kinoglobe.ru/dvd?v=31877" title="Танцовщик">Танцовщик</a>
+</h4>
+<div class="genrez">2016</div>
+<div style="clear:both"></div>
+<div class="genrez">Драма</div>
+</div>
+</div>
+
+<div class="rel showWatched">
+<div class="clear"></div>
+<a class="hLink" href="http://www.kinoglobe.ru/dvd?v=16807">
+<img title="Паранормальное явление" alt="Паранормальное явление" src="http://www.kinoglobe.ru/info/images/dvd/images_logo/120_kinoglobe_1002324303.jpg" width="60" height="80">
+</a>
+<div class="easyfix">
+<h4>
+<a href="http://www.kinoglobe.ru/dvd?v=16807" title="Паранормальное явление">Паранормальное явление</a>
+</h4>
+<div class="genrez">2011</div>
+<div style="clear:both"></div>
+<div class="genrez">Ужасы</div>
+</div>
+</div>
+
+<div class="rel showWatched">
+<div class="clear"></div>
+<a class="hLink" href="http://www.kinoglobe.ru/dvd?v=6849">
+<img title="Любовь" alt="Любовь" src="http://www.kinoglobe.ru/info/images/dvd/images_logo/120_kinoglobe_1002995646.jpg" width="60" height="80">
+</a>
+<div class="easyfix">
+<h4>
+<a href="http://www.kinoglobe.ru/dvd?v=6849" title="Любовь">Любовь</a>
+</h4>
+<div class="genrez">2011</div>
+<div style="clear:both"></div>
+<div class="genrez">Драма</div>
+</div>
+</div>
+
+<div class="rel showWatched">
+<div class="clear"></div>
+<a class="hLink" href="http://www.kinoglobe.ru/dvd?v=26573">
+<img title="Сердца четырех" alt="Сердца четырех" src="http://www.kinoglobe.ru/info/images/dvd/images_logo/120_kinoglobe_1009858056.jpg" width="60" height="80">
+</a>
+<div class="easyfix">
+<h4>
+<a href="http://www.kinoglobe.ru/dvd?v=26573" title="Сердца четырех">Сердца четырех</a>
+</h4>
+<div class="genrez">2003</div>
+<div style="clear:both"></div>
+<div class="genrez">Комедия</div>
+</div>
+</div>
+
+<div class="rel showWatched">
+<div class="clear"></div>
+<a class="hLink" href="http://www.kinoglobe.ru/dvd?v=19921">
+<img title="Навязчивый поклонник" alt="Навязчивый поклонник" src="http://www.kinoglobe.ru/info/images/dvd/images_logo/120_kinoglobe_1000095119.jpg" width="60" height="80">
+</a>
+<div class="easyfix">
+<h4>
+<a href="http://www.kinoglobe.ru/dvd?v=19921" title="Навязчивый поклонник">Навязчивый поклонник</a>
+</h4>
+<div class="genrez">2006</div>
+<div style="clear:both"></div>
+<div class="genrez">Мелодрама</div>
+</div>
+</div>
+
+<div class="rel showWatched">
+<div class="clear"></div>
+<a class="hLink" href="http://www.kinoglobe.ru/dvd?v=24921">
+<img title="Лиззи Магуайр. Выпуск 9. Эпизоды 25-27" alt="Лиззи Магуайр. Выпуск 9. Эпизоды 25-27" src="http://www.kinoglobe.ru/info/images/dvd/images_logo/120_kinoglobe_1000718043.jpg" width="60" height="80">
+</a>
+<div class="easyfix">
+<h4>
+<a href="http://www.kinoglobe.ru/dvd?v=24921" title="Лиззи Магуайр. Выпуск 9. Эпизоды 25-27">Лиззи Магуайр. Выпуск 9. Эпизоды 25-27</a>
+</h4>
+<div class="genrez">2007</div>
+<div style="clear:both"></div>
+<div class="genrez">Комедия</div>
+</div>
+</div>
+
+<div class="rel showWatched">
+<div class="clear"></div>
+<a class="hLink" href="http://www.kinoglobe.ru/dvd?v=16177">
+<img title="Возвращение живых мертвецов 3" alt="Возвращение живых мертвецов 3" src="http://www.kinoglobe.ru/info/images/dvd/images_logo/120_kinoglobe_1001446826.jpg" width="60" height="80">
+</a>
+<div class="easyfix">
+<h4>
+<a href="http://www.kinoglobe.ru/dvd?v=16177" title="Возвращение живых мертвецов 3">Возвращение живых мертвецов 3</a>
+</h4>
+<div class="genrez">2008</div>
+<div style="clear:both"></div>
+<div class="genrez">Ужасы</div>
+</div>
+</div>
+
+<div class="rel showWatched">
+<div class="clear"></div>
+<a class="hLink" href="http://www.kinoglobe.ru/dvd?v=31729">
+<img title="Искусство любить" alt="Искусство любить" src="http://www.kinoglobe.ru/info/images/dvd/images_logo/120_kinoglobe_1005296220.jpg" width="60" height="80">
+</a>
+<div class="easyfix">
+<h4>
+<a href="http://www.kinoglobe.ru/dvd?v=31729" title="Искусство любить">Искусство любить</a>
+</h4>
+<div class="genrez">2011</div>
+<div style="clear:both"></div>
+<div class="genrez">Комедия</div>
+</div>
+</div>
+
+<div class="rel showWatched">
+<div class="clear"></div>
+<a class="hLink" href="http://www.kinoglobe.ru/dvd?v=23661">
+<img title="Питер Иббетсон" alt="Питер Иббетсон" src="http://www.kinoglobe.ru/info/images/dvd/images_logo/120_kinoglobe_1001099845.jpg" width="60" height="80">
+</a>
+<div class="easyfix">
+<h4>
+<a href="http://www.kinoglobe.ru/dvd?v=23661" title="Питер Иббетсон">Питер Иббетсон</a>
+</h4>
+<div class="genrez">2009</div>
+<div style="clear:both"></div>
+<div class="genrez">Драма</div>
+</div>
+</div>
+
+<div class="rel showWatched">
+<div class="clear"></div>
+<a class="hLink" href="http://www.kinoglobe.ru/dvd?v=29125">
+<img title="Да здравствует Франция!" alt="Да здравствует Франция!" src="http://www.kinoglobe.ru/info/images/dvd/images_logo/120_kinoglobe_1008802957.jpg" width="60" height="80">
+</a>
+<div class="easyfix">
+<h4>
+<a href="http://www.kinoglobe.ru/dvd?v=29125" title="Да здравствует Франция!">Да здравствует Франция!</a>
+</h4>
+<div class="genrez">2013</div>
+<div style="clear:both"></div>
+<div class="genrez">Приключения</div>
+</div>
+</div>
+
+<div class="rel showWatched">
+<div class="clear"></div>
+<a class="hLink" href="http://www.kinoglobe.ru/dvd?v=18617">
+<img title="Профессионал" alt="Профессионал" src="http://www.kinoglobe.ru/info/images/dvd/images_logo/120_kinoglobe_1003840640.jpg" width="60" height="80">
+</a>
+<div class="easyfix">
+<h4>
+<a href="http://www.kinoglobe.ru/dvd?v=18617" title="Профессионал">Профессионал</a>
+</h4>
+<div class="genrez">2011</div>
+<div style="clear:both"></div>
+<div class="genrez">Боевик</div>
+</div>
+</div>
+
+<div class="rel showWatched">
+<div class="clear"></div>
+<a class="hLink" href="http://www.kinoglobe.ru/dvd?v=17608">
+<img title="Красный Дракон" alt="Красный Дракон" src="http://www.kinoglobe.ru/info/images/dvd/images_logo/120_kinoglobe_1000448552.jpg" width="60" height="80">
+</a>
+<div class="easyfix">
+<h4>
+<a href="http://www.kinoglobe.ru/dvd?v=17608" title="Красный Дракон">Красный Дракон</a>
+</h4>
+<div class="genrez">2006</div>
+<div style="clear:both"></div>
+<div class="genrez">Ужасы</div>
+</div>
+</div>
+
+<div class="rel showWatched">
+<div class="clear"></div>
+<a class="hLink" href="http://www.kinoglobe.ru/dvd?v=22152">
+<img title="Тайрон Пауэр: Кровь и песок / Черный лебедь / История Бенджамина Блэйка / В старом Чикаго" alt="Тайрон Пауэр: Кровь и песок / Черный лебедь / История Бенджамина Блэйка / В старом Чикаго" src="http://www.kinoglobe.ru/info/images/dvd/images_logo/120_kinoglobe_1004529179.jpg" width="60" height="80">
+</a>
+<div class="easyfix">
+<h4>
+<a href="http://www.kinoglobe.ru/dvd?v=22152" title="Тайрон Пауэр: Кровь и песок / Черный лебедь / История Бенджамина Блэйка / В старом Чикаго">Тайрон Пауэр: Кровь и песок / Черный лебедь / История Бенджамина Блэйка / В старом Чикаго</a>
+</h4>
+<div class="genrez">2012</div>
+<div style="clear:both"></div>
+<div class="genrez">Драма</div>
+</div>
+</div>
+
+<div class="rel showWatched">
+<div class="clear"></div>
+<a class="hLink" href="http://www.kinoglobe.ru/dvd?v=22395">
+<img title="Александр Дюма: Французская коллекция фильмов: Граф Монте - Кристо / Железная маска / Три мушкетера" alt="Александр Дюма: Французская коллекция фильмов: Граф Монте - Кристо / Железная маска / Три мушкетера" src="http://www.kinoglobe.ru/info/images/dvd/images_logo/120_kinoglobe_1002512284.jpg" width="60" height="80">
+</a>
+<div class="easyfix">
+<h4>
+<a href="http://www.kinoglobe.ru/dvd?v=22395" title="Александр Дюма: Французская коллекция фильмов: Граф Монте - Кристо / Железная маска / Три мушкетера">Александр Дюма: Французская коллекция фильмов: Граф Монте - Кристо / Железная маска / Три мушкетера</a>
+</h4>
+<div class="genrez">2011</div>
+<div style="clear:both"></div>
+<div class="genrez">Драма</div>
+</div>
+</div>
+
+<div class="rel showWatched">
+<div class="clear"></div>
+<a class="hLink" href="http://www.kinoglobe.ru/dvd?v=27744">
+<img title="Под крышами Монмартра" alt="Под крышами Монмартра" src="http://www.kinoglobe.ru/info/images/dvd/images_logo/120_kinoglobe_1000612971.jpg" width="60" height="80">
+</a>
+<div class="easyfix">
+<h4>
+<a href="http://www.kinoglobe.ru/dvd?v=27744" title="Под крышами Монмартра">Под крышами Монмартра</a>
+</h4>
+<div class="genrez">2007</div>
+<div style="clear:both"></div>
+<div class="genrez">Мелодрама</div>
+</div>
+</div>
+
+<div class="rel showWatched">
+<div class="clear"></div>
+<a class="hLink" href="http://www.kinoglobe.ru/dvd?v=15811">
+<img title="Тарзан и амазонки" alt="Тарзан и амазонки" src="http://www.kinoglobe.ru/info/images/dvd/images_logo/120_kinoglobe_1001018623.jpg" width="60" height="80">
+</a>
+<div class="easyfix">
+<h4>
+<a href="http://www.kinoglobe.ru/dvd?v=15811" title="Тарзан и амазонки">Тарзан и амазонки</a>
+</h4>
+<div class="genrez">2007</div>
+<div style="clear:both"></div>
+<div class="genrez">Приключения</div>
+</div>
+</div>
+
+<div class="rel showWatched">
+<div class="clear"></div>
+<a class="hLink" href="http://www.kinoglobe.ru/dvd?v=28546">
+<img title="Убийства на радио" alt="Убийства на радио" src="http://www.kinoglobe.ru/info/images/dvd/images_logo/120_kinoglobe_1001708502.jpg" width="60" height="80">
+</a>
+<div class="easyfix">
+<h4>
+<a href="http://www.kinoglobe.ru/dvd?v=28546" title="Убийства на радио">Убийства на радио</a>
+</h4>
+<div class="genrez">2010</div>
+<div style="clear:both"></div>
+<div class="genrez">Комедия</div>
+</div>
+</div>
+
+<div class="rel showWatched">
+<div class="clear"></div>
+<a class="hLink" href="http://www.kinoglobe.ru/dvd?v=31569">
+<img title="Фокусники" alt="Фокусники" src="http://www.kinoglobe.ru/info/images/dvd/images_logo/120_kinoglobe_1000862796.jpg" width="60" height="80">
+</a>
+<div class="easyfix">
+<h4>
+<a href="http://www.kinoglobe.ru/dvd?v=31569" title="Фокусники">Фокусники</a>
+</h4>
+<div class="genrez">2007</div>
+<div style="clear:both"></div>
+<div class="genrez">Комедия</div>
+</div>
+</div>
+
+<div class="rel showWatched">
+<div class="clear"></div>
+<a class="hLink" href="http://www.kinoglobe.ru/dvd?v=30126">
+<img title="Раскоп" alt="Раскоп" src="http://www.kinoglobe.ru/info/images/dvd/images_logo/120_kinoglobe_1012959066.jpg" width="60" height="80">
+</a>
+<div class="easyfix">
+<h4>
+<a href="http://www.kinoglobe.ru/dvd?v=30126" title="Раскоп">Раскоп</a>
+</h4>
+<div class="genrez">2015</div>
+<div style="clear:both"></div>
+<div class="genrez">Драма</div>
+</div>
+</div>
+
+<div class="rel showWatched">
+<div class="clear"></div>
+<a class="hLink" href="http://www.kinoglobe.ru/dvd?v=32935">
+<img title="Белорусский вокзал" alt="Белорусский вокзал" src="http://www.kinoglobe.ru/info/images/dvd/images_logo/120_kinoglobe_1022268708.jpg" width="60" height="80">
+</a>
+<div class="easyfix">
+<h4>
+<a href="http://www.kinoglobe.ru/dvd?v=32935" title="Белорусский вокзал">Белорусский вокзал</a>
+</h4>
+<div class="genrez">1970</div>
+<div style="clear:both"></div>
+<div class="genrez"></div>
+</div>
+</div>
+
+<div class="rel showWatched">
+<div class="clear"></div>
+<a class="hLink" href="http://www.kinoglobe.ru/dvd?v=29997">
+<img title="Восхождение Юпитер 3D и 2D" alt="Восхождение Юпитер 3D и 2D" src="http://www.kinoglobe.ru/info/images/dvd/images_logo/120_kinoglobe_1012267839.jpg" width="60" height="80">
+</a>
+<div class="easyfix">
+<h4>
+<a href="http://www.kinoglobe.ru/dvd?v=29997" title="Восхождение Юпитер 3D и 2D">Восхождение Юпитер 3D и 2D</a>
+</h4>
+<div class="genrez">2015</div>
+<div style="clear:both"></div>
+<div class="genrez">Приключения</div>
+</div>
+</div>
+
+<div class="rel showWatched">
+<div class="clear"></div>
+<a class="hLink" href="http://www.kinoglobe.ru/dvd?v=29555">
+<img title="Окулус" alt="Окулус" src="http://www.kinoglobe.ru/info/images/dvd/images_logo/120_kinoglobe_1010769769.jpg" width="60" height="80">
+</a>
+<div class="easyfix">
+<h4>
+<a href="http://www.kinoglobe.ru/dvd?v=29555" title="Окулус">Окулус</a>
+</h4>
+<div class="genrez">2014</div>
+<div style="clear:both"></div>
+<div class="genrez">Ужасы</div>
+</div>
+</div>
+
+</div></div></div><div class="goNext"><a class="carousel-nav carousel-next nextWatched nextDVD " onclick="return false" href="#"></a></div></div></div><div style="clear:both"></div>
+</div> 
+<div class="popular"><h2>Новые фильмы</h2></div>
+<div>	
+	<div class="rel">
+
+<div class="clear"></div>
+
+<a class="hLink" href="http://www.kinoglobe.ru/films/22904-zagovor-na-ostrove-djekill">
+
+<img width="60" height="80" title="Смотреть фильм Заговор на острове Джекилл" alt="Смотреть фильм Заговор на острове Джекилл" src="http://www.kinoglobe.ru/cinema/images/a15579f9d296de30d8004acb7641279f.jpg">
+
+</a>
+
+<div class="easyfix">
+
+<h4>
+
+<a href="http://www.kinoglobe.ru/films/22904-zagovor-na-ostrove-djekill" title="Смотреть фильм Заговор на острове Джекилл">Заговор на острове Джекилл</a>
+
+</h4>
+
+<div class="genrez">криминал/триллер</div>
+
+<div title="Оценка 3" class="stars-t1 stars-t130"></div>
+</div>
+
+</div>
+<div class="rel">
+
+<div class="clear"></div>
+
+<a class="hLink" href="http://www.kinoglobe.ru/films/22903-uj-kto-by-govoril">
+
+<img width="60" height="80" title="Смотреть фильм Уж кто бы говорил" alt="Смотреть фильм Уж кто бы говорил" src="http://www.kinoglobe.ru/cinema/images/e0dd32e3a42297af284aa91b8f4576a5.jpg">
+
+</a>
+
+<div class="easyfix">
+
+<h4>
+
+<a href="http://www.kinoglobe.ru/films/22903-uj-kto-by-govoril" title="Смотреть фильм Уж кто бы говорил">Уж кто бы говорил</a>
+
+</h4>
+
+<div class="genrez">комедия</div>
+
+<div title="Оценка 4" class="stars-t1 stars-t140"></div>
+</div>
+
+</div>
+<div class="rel">
+
+<div class="clear"></div>
+
+<a class="hLink" href="http://www.kinoglobe.ru/films/22902-shalnaya-karta">
+
+<img width="60" height="80" title="Смотреть фильм Шальная карта" alt="Смотреть фильм Шальная карта" src="http://www.kinoglobe.ru/cinema/images/62965e72316be32dd46417190a27a8e7.jpg">
+
+</a>
+
+<div class="easyfix">
+
+<h4>
+
+<a href="http://www.kinoglobe.ru/films/22902-shalnaya-karta" title="Смотреть фильм Шальная карта">Шальная карта</a>
+
+</h4>
+
+<div class="genrez">боевик/драма</div>
+
+<div title="Оценка 3" class="stars-t1 stars-t130"></div>
+</div>
+
+</div>
+<div class="rel">
+
+<div class="clear"></div>
+
+<a class="hLink" href="http://www.kinoglobe.ru/films/22901-magazin-«imperiya»">
+
+<img width="60" height="80" title="Смотреть фильм Магазин «Империя»" alt="Смотреть фильм Магазин «Империя»" src="http://www.kinoglobe.ru/cinema/images/7d695d4efdcdab9c58916fd633d4f249.jpg">
+
+</a>
+
+<div class="easyfix">
+
+<h4>
+
+<a href="http://www.kinoglobe.ru/films/22901-magazin-«imperiya»" title="Смотреть фильм Магазин «Империя»">Магазин «Империя»</a>
+
+</h4>
+
+<div class="genrez">мелодрама/драма</div>
+
+<div title="Оценка 3" class="stars-t1 stars-t130"></div>
+</div>
+
+</div>
+<div class="rel">
+
+<div class="clear"></div>
+
+<a class="hLink" href="http://www.kinoglobe.ru/films/22900-rojdennyy-zashshishshat">
+
+<img width="60" height="80" title="Смотреть фильм Рожденный защищать" alt="Смотреть фильм Рожденный защищать" src="http://www.kinoglobe.ru/cinema/images/bc32fd1af41f9c8b5bb3efc4ec24049d.jpg">
+
+</a>
+
+<div class="easyfix">
+
+<h4>
+
+<a href="http://www.kinoglobe.ru/films/22900-rojdennyy-zashshishshat" title="Смотреть фильм Рожденный защищать">Рожденный защищать</a>
+
+</h4>
+
+<div class="genrez">боевик/военный</div>
+
+<div title="Оценка 3" class="stars-t1 stars-t130"></div>
+</div>
+
+</div>
+<div class="rel">
+
+<div class="clear"></div>
+
+<a class="hLink" href="http://www.kinoglobe.ru/films/22898-kosmos-mejdu-nami">
+
+<img width="60" height="80" title="Смотреть фильм Космос между нами" alt="Смотреть фильм Космос между нами" src="http://www.kinoglobe.ru/cinema/images/a28c0b9adef5f9ab19636721893da7f0.jpg">
+
+</a>
+
+<div class="easyfix">
+
+<h4>
+
+<a href="http://www.kinoglobe.ru/films/22898-kosmos-mejdu-nami" title="Смотреть фильм Космос между нами">Космос между нами</a>
+
+</h4>
+
+<div class="genrez">мелодрама/драма</div>
+
+<div title="Оценка 3" class="stars-t1 stars-t130"></div>
+</div>
+
+</div>
+<div class="rel">
+
+<div class="clear"></div>
+
+<a class="hLink" href="http://www.kinoglobe.ru/films/22897-vozmojnosti-karery">
+
+<img width="60" height="80" title="Смотреть фильм Возможности карьеры" alt="Смотреть фильм Возможности карьеры" src="http://www.kinoglobe.ru/cinema/images/036e016d6513f7ea6e4cec9e581d79c1.jpg">
+
+</a>
+
+<div class="easyfix">
+
+<h4>
+
+<a href="http://www.kinoglobe.ru/films/22897-vozmojnosti-karery" title="Смотреть фильм Возможности карьеры">Возможности карьеры</a>
+
+</h4>
+
+<div class="genrez">мелодрама/комедия</div>
+
+<div title="Оценка 2.5" class="stars-t1 stars-t125"></div>
+</div>
+
+</div>
+<div class="rel">
+
+<div class="clear"></div>
+
+<a class="hLink" href="http://www.kinoglobe.ru/films/22896-iznos">
+
+<img width="60" height="80" title="Смотреть фильм Износ" alt="Смотреть фильм Износ" src="http://www.kinoglobe.ru/cinema/images/170e74c2eac97cb95debf4bced4b49fa.jpg">
+
+</a>
+
+<div class="easyfix">
+
+<h4>
+
+<a href="http://www.kinoglobe.ru/films/22896-iznos" title="Смотреть фильм Износ">Износ</a>
+
+</h4>
+
+<div class="genrez">боевик</div>
+
+<div title="Оценка 3" class="stars-t1 stars-t130"></div>
+</div>
+
+</div>
+<div class="rel">
+
+<div class="clear"></div>
+
+<a class="hLink" href="http://www.kinoglobe.ru/films/22895-ya-vernus-v-proshloe-i-izmenyu-jizn">
+
+<img width="60" height="80" title="Смотреть фильм Я вернусь в прошлое и изменю жизнь" alt="Смотреть фильм Я вернусь в прошлое и изменю жизнь" src="http://www.kinoglobe.ru/cinema/images/719e6b4808ff89f5a524c0bbefc77293.jpg">
+
+</a>
+
+<div class="easyfix">
+
+<h4>
+
+<a href="http://www.kinoglobe.ru/films/22895-ya-vernus-v-proshloe-i-izmenyu-jizn" title="Смотреть фильм Я вернусь в прошлое и изменю жизнь">Я вернусь в прошлое и изменю жизнь</a>
+
+</h4>
+
+<div class="genrez">комедия/фэнтези</div>
+
+<div title="Оценка 3" class="stars-t1 stars-t130"></div>
+</div>
+
+</div>
+<div class="rel">
+
+<div class="clear"></div>
+
+<a class="hLink" href="http://www.kinoglobe.ru/films/22894-nevezuchie">
+
+<img width="60" height="80" title="Смотреть фильм Невезучие" alt="Смотреть фильм Невезучие" src="http://www.kinoglobe.ru/cinema/images/656688b309a4dffd458038b094fd76db.jpg">
+
+</a>
+
+<div class="easyfix">
+
+<h4>
+
+<a href="http://www.kinoglobe.ru/films/22894-nevezuchie" title="Смотреть фильм Невезучие">Невезучие</a>
+
+</h4>
+
+<div class="genrez">детектив/комедия</div>
+
+<div title="Оценка 3" class="stars-t1 stars-t130"></div>
+</div>
+
+</div>
+<div class="rel">
+
+<div class="clear"></div>
+
+<a class="hLink" href="http://www.kinoglobe.ru/films/22893-nigde">
+
+<img width="60" height="80" title="Смотреть фильм Нигде" alt="Смотреть фильм Нигде" src="http://www.kinoglobe.ru/cinema/images/18f6204e5b5a41b92a31ef193b248470.jpg">
+
+</a>
+
+<div class="easyfix">
+
+<h4>
+
+<a href="http://www.kinoglobe.ru/films/22893-nigde" title="Смотреть фильм Нигде">Нигде</a>
+
+</h4>
+
+<div class="genrez">драма/триллер</div>
+
+<div title="Оценка 3" class="stars-t1 stars-t130"></div>
+</div>
+
+</div>
+<div class="rel">
+
+<div class="clear"></div>
+
+<a class="hLink" href="http://www.kinoglobe.ru/films/22892-agent-vinod">
+
+<img width="60" height="80" title="Смотреть фильм Агент Винод" alt="Смотреть фильм Агент Винод" src="http://www.kinoglobe.ru/cinema/images/f030b1671f9aa963f3b8c00cddb7d4ef.jpg">
+
+</a>
+
+<div class="easyfix">
+
+<h4>
+
+<a href="http://www.kinoglobe.ru/films/22892-agent-vinod" title="Смотреть фильм Агент Винод">Агент Винод</a>
+
+</h4>
+
+<div class="genrez">боевик/приключения</div>
+
+<div title="Оценка 3" class="stars-t1 stars-t130"></div>
+</div>
+
+</div>
+<div class="rel">
+
+<div class="clear"></div>
+
+<a class="hLink" href="http://www.kinoglobe.ru/films/22891-porajennyy">
+
+<img width="60" height="80" title="Смотреть фильм Пораженный" alt="Смотреть фильм Пораженный" src="http://www.kinoglobe.ru/cinema/images/c067db3ae149e3d22900584582d0f7d8.jpg">
+
+</a>
+
+<div class="easyfix">
+
+<h4>
+
+<a href="http://www.kinoglobe.ru/films/22891-porajennyy" title="Смотреть фильм Пораженный">Пораженный</a>
+
+</h4>
+
+<div class="genrez">детектив/триллер</div>
+
+<div title="Оценка 3" class="stars-t1 stars-t130"></div>
+</div>
+
+</div>
+<div class="rel">
+
+<div class="clear"></div>
+
+<a class="hLink" href="http://www.kinoglobe.ru/films/22890-lyubov-–-eto-idealnoe-prestuplenie">
+
+<img width="60" height="80" title="Смотреть фильм Любовь – это идеальное преступление" alt="Смотреть фильм Любовь – это идеальное преступление" src="http://www.kinoglobe.ru/cinema/images/785c5bfe9f46e77492660e6026672a78.jpg">
+
+</a>
+
+<div class="easyfix">
+
+<h4>
+
+<a href="http://www.kinoglobe.ru/films/22890-lyubov-–-eto-idealnoe-prestuplenie" title="Смотреть фильм Любовь – это идеальное преступление">Любовь – это идеальное преступление</a>
+
+</h4>
+
+<div class="genrez">криминал/триллер</div>
+
+<div title="Оценка 3" class="stars-t1 stars-t130"></div>
+</div>
+
+</div>
+<div class="rel">
+
+<div class="clear"></div>
+
+<a class="hLink" href="http://www.kinoglobe.ru/films/22889-ugonyaya-loshadey">
+
+<img width="60" height="80" title="Смотреть фильм Угоняя лошадей" alt="Смотреть фильм Угоняя лошадей" src="http://www.kinoglobe.ru/cinema/images/7ee3566f617d0514aa6bf2ded1d7559d.jpg">
+
+</a>
+
+<div class="easyfix">
+
+<h4>
+
+<a href="http://www.kinoglobe.ru/films/22889-ugonyaya-loshadey" title="Смотреть фильм Угоняя лошадей">Угоняя лошадей</a>
+
+</h4>
+
+<div class="genrez">детектив/драма</div>
+
+<div title="Оценка 3" class="stars-t1 stars-t130"></div>
+</div>
+
+</div>
+<div class="rel">
+
+<div class="clear"></div>
+
+<a class="hLink" href="http://www.kinoglobe.ru/films/22888-pit-i-ego-drakon">
+
+<img width="60" height="80" title="Смотреть фильм Пит и его дракон" alt="Смотреть фильм Пит и его дракон" src="http://www.kinoglobe.ru/cinema/images/82fd7cec784d42005765818ae48b5bfb.jpg">
+
+</a>
+
+<div class="easyfix">
+
+<h4>
+
+<a href="http://www.kinoglobe.ru/films/22888-pit-i-ego-drakon" title="Смотреть фильм Пит и его дракон">Пит и его дракон</a>
+
+</h4>
+
+<div class="genrez">боевик/комедия</div>
+
+<div title="Оценка 3" class="stars-t1 stars-t130"></div>
+</div>
+
+</div>
+<div class="rel">
+
+<div class="clear"></div>
+
+<a class="hLink" href="http://www.kinoglobe.ru/films/22887-izmeni-ili-umri">
+
+<img width="60" height="80" title="Смотреть фильм Измени или умри" alt="Смотреть фильм Измени или умри" src="http://www.kinoglobe.ru/cinema/images/1ab287f2d82e8e95734200296544cfdc.jpg">
+
+</a>
+
+<div class="easyfix">
+
+<h4>
+
+<a href="http://www.kinoglobe.ru/films/22887-izmeni-ili-umri" title="Смотреть фильм Измени или умри">Измени или умри</a>
+
+</h4>
+
+<div class="genrez">триллер</div>
+
+<div title="Оценка 3" class="stars-t1 stars-t130"></div>
+</div>
+
+</div>
+<div class="rel">
+
+<div class="clear"></div>
+
+<a class="hLink" href="http://www.kinoglobe.ru/films/22886-z/l/o">
+
+<img width="60" height="80" title="Смотреть фильм З/Л/О" alt="Смотреть фильм З/Л/О" src="http://www.kinoglobe.ru/cinema/images/dbbe2ac1a61b1a82318e75ac217a2f4f.jpg">
+
+</a>
+
+<div class="easyfix">
+
+<h4>
+
+<a href="http://www.kinoglobe.ru/films/22886-z/l/o" title="Смотреть фильм З/Л/О">З/Л/О</a>
+
+</h4>
+
+<div class="genrez">триллер/ужасы</div>
+
+<div title="Оценка 3" class="stars-t1 stars-t130"></div>
+</div>
+
+</div>
+<div class="rel">
+
+<div class="clear"></div>
+
+<a class="hLink" href="http://www.kinoglobe.ru/films/22885-proekt-e-1337-alfa">
+
+<img width="60" height="80" title="Смотреть фильм Проект E. 1337: Альфа" alt="Смотреть фильм Проект E. 1337: Альфа" src="http://www.kinoglobe.ru/cinema/images/087121b4439656b45b466aa3e94d86bf.jpg">
+
+</a>
+
+<div class="easyfix">
+
+<h4>
+
+<a href="http://www.kinoglobe.ru/films/22885-proekt-e-1337-alfa" title="Смотреть фильм Проект E. 1337: Альфа">Проект E. 1337: Альфа</a>
+
+</h4>
+
+<div class="genrez">боевик/драма</div>
+
+<div title="Оценка 3" class="stars-t1 stars-t130"></div>
+</div>
+
+</div>
+<div class="rel">
+
+<div class="clear"></div>
+
+<a class="hLink" href="http://www.kinoglobe.ru/films/22884-chem-bolshe-ty-menya-ignoriruesh">
+
+<img width="60" height="80" title="Смотреть фильм Чем больше ты меня игнорируешь" alt="Смотреть фильм Чем больше ты меня игнорируешь" src="http://www.kinoglobe.ru/cinema/images/10864bace03c14be59f0c7b7fc17d18a.jpg">
+
+</a>
+
+<div class="easyfix">
+
+<h4>
+
+<a href="http://www.kinoglobe.ru/films/22884-chem-bolshe-ty-menya-ignoriruesh" title="Смотреть фильм Чем больше ты меня игнорируешь">Чем больше ты меня игнорируешь</a>
+
+</h4>
+
+<div class="genrez">комедия</div>
+
+<div title="Оценка 3" class="stars-t1 stars-t130"></div>
+</div>
+
+</div>
+
+</div> <div>	
+	<div style="clear:both; margin-bottom:40px"></div><div class="filmcategories watchedAll watchedTV"><div class="popular"><h2>Рекомендуем</h2></div>
+<div><div style="clear:both"></div><div class=""><div class=""><div class="rel showWatched">
+<div class="clear"></div>
+<a class="hLink" href="http://www.kinoglobe.ru/films/9241-poka-ya-jiv">
+<img title="Пока я жив" alt="Пока я жив" src="http://www.kinoglobe.ru/cinema/images/eca72acb8b09da70de90983432e90a93.jpg" width="60" height="40">
+</a>
+<div class="easyfix">
+<h4>
+<a href="http://www.kinoglobe.ru/films/9241-poka-ya-jiv" title="Пока я жив">Пока я жив</a>
+</h4>
+<div class="genrez">драма</div>
+</div>
+</div>
+
+<div class="rel showWatched">
+<div class="clear"></div>
+<a class="hLink" href="http://www.kinoglobe.ru/films/1451-spiral">
+<img title="Спираль" alt="Спираль" src="http://www.kinoglobe.ru/cinema/images/c6a49ba52b88a27db467e6079492f344.jpg" width="60" height="40">
+</a>
+<div class="easyfix">
+<h4>
+<a href="http://www.kinoglobe.ru/films/1451-spiral" title="Спираль">Спираль</a>
+</h4>
+<div class="genrez">Драма</div>
+</div>
+</div>
+
+<div class="rel showWatched">
+<div class="clear"></div>
+<a class="hLink" href="http://www.kinoglobe.ru/films/9526-frontera">
+<img title="Фронтера" alt="Фронтера" src="http://www.kinoglobe.ru/cinema/images/e49e2f7bd8710a2b7e8d3eac2af05ae4.jpg" width="60" height="40">
+</a>
+<div class="easyfix">
+<h4>
+<a href="http://www.kinoglobe.ru/films/9526-frontera" title="Фронтера">Фронтера</a>
+</h4>
+<div class="genrez">драма</div>
+</div>
+</div>
+
+<div class="rel showWatched">
+<div class="clear"></div>
+<a class="hLink" href="http://www.kinoglobe.ru/films/11447-ubit-hasselhoffa">
+<img title="Убить Хассельхоффа" alt="Убить Хассельхоффа" src="http://www.kinoglobe.ru/cinema/images/9cc3004cc2eebc048ea93e1fb1f3322b.jpg" width="60" height="40">
+</a>
+<div class="easyfix">
+<h4>
+<a href="http://www.kinoglobe.ru/films/11447-ubit-hasselhoffa" title="Убить Хассельхоффа">Убить Хассельхоффа</a>
+</h4>
+<div class="genrez">комедия</div>
+</div>
+</div>
+
+</div></div></div></div><div style="clear:both;margin-bottom:30px"></div>
+</div> 
+		</div>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		<!-- END: LEFT COLUMN -->
+		
+		</div>
+
+				<!-- BEGIN: RIGHT COLUMN -->
+		<div id="ja-col2">
+					<div>	
+	<div style="clear:both;"></div><div class="filmcategories watchedAll watchedTV"><div class="popular"><h2>Трейлеры</h2></div>
+<div class="allTrail"><div class="goPrev"><a class="carousel-nav carousel-prev prevTrailer" onclick="return false" href="#"></a></div><div style="clear:both"></div><div class="trailerScroll"><div class="trailerItems"><div class="videoTrailer"><div class="rel showWatched">
+<div class="clear"></div>
+<a class="hLink" href="http://www.kinoglobe.ru/watch?v=Y8Wn7vkMI1k">
+<img title="Локи (1 сезон) — Русский трейлер #3 (2021)" alt="Локи (1 сезон) — Русский трейлер #3 (2021)" src="http://www.kinoglobe.ru/info/images/trailers/Y8Wn7vkMI1k.jpg" width="60" height="40">
+</a>
+<div class="easyfix">
+<h4>
+<a href="http://www.kinoglobe.ru/watch?v=Y8Wn7vkMI1k" title="Локи (1 сезон) — Русский трейлер #3 (2021)">Локи (1 сезон) — Русский трейлер #3 (2021)</a>
+</h4>
+<div class="genrez">21.05.2021</div>
+</div>
+</div>
+
+<div class="rel showWatched">
+<div class="clear"></div>
+<a class="hLink" href="http://www.kinoglobe.ru/watch?v=n3QKvtsX5_o">
+<img title="Гоголь" alt="Гоголь" src="http://www.kinoglobe.ru/info/images/trailers/n3QKvtsX5_o.jpg" width="60" height="40">
+</a>
+<div class="easyfix">
+<h4>
+<a href="http://www.kinoglobe.ru/watch?v=n3QKvtsX5_o" title="Гоголь">Гоголь</a>
+</h4>
+<div class="genrez">21.11.2017</div>
+</div>
+</div>
+
+<div class="rel showWatched">
+<div class="clear"></div>
+<a class="hLink" href="http://www.kinoglobe.ru/watch?v=gnMUERmUago">
+<img title="После тебя — Русский трейлер (2016)" alt="После тебя — Русский трейлер (2016)" src="http://www.kinoglobe.ru/info/images/trailers/gnMUERmUago.jpg" width="60" height="40">
+</a>
+<div class="easyfix">
+<h4>
+<a href="http://www.kinoglobe.ru/watch?v=gnMUERmUago" title="После тебя — Русский трейлер (2016)">После тебя — Русский трейлер (2016)</a>
+</h4>
+<div class="genrez">14.05.2016</div>
+</div>
+</div>
+
+<div class="rel showWatched">
+<div class="clear"></div>
+<a class="hLink" href="http://www.kinoglobe.ru/watch?v=h8D-fy1AMBY">
+<img title="Друг на продажу — Фрагмент (2021)" alt="Друг на продажу — Фрагмент (2021)" src="http://www.kinoglobe.ru/info/images/trailers/h8D-fy1AMBY.jpg" width="60" height="40">
+</a>
+<div class="easyfix">
+<h4>
+<a href="http://www.kinoglobe.ru/watch?v=h8D-fy1AMBY" title="Друг на продажу — Фрагмент (2021)">Друг на продажу — Фрагмент (2021)</a>
+</h4>
+<div class="genrez">29.04.2021</div>
+</div>
+</div>
+
+<div class="rel showWatched">
+<div class="clear"></div>
+<a class="hLink" href="http://www.kinoglobe.ru/watch?v=nUVC9uz77xI">
+<img title="Хармс — Трейлер #2 (2017)" alt="Хармс — Трейлер #2 (2017)" src="http://www.kinoglobe.ru/info/images/trailers/nUVC9uz77xI.jpg" width="60" height="40">
+</a>
+<div class="easyfix">
+<h4>
+<a href="http://www.kinoglobe.ru/watch?v=nUVC9uz77xI" title="Хармс — Трейлер #2 (2017)">Хармс — Трейлер #2 (2017)</a>
+</h4>
+<div class="genrez">28.10.2017</div>
+</div>
+</div>
+
+<div class="rel showWatched">
+<div class="clear"></div>
+<a class="hLink" href="http://www.kinoglobe.ru/watch?v=Nzg77xDz0LI">
+<img title="Большая маленькая ложь (2 сезон) — Русский трейлер (2019)" alt="Большая маленькая ложь (2 сезон) — Русский трейлер (2019)" src="http://www.kinoglobe.ru/info/images/trailers/Nzg77xDz0LI.jpg" width="60" height="40">
+</a>
+<div class="easyfix">
+<h4>
+<a href="http://www.kinoglobe.ru/watch?v=Nzg77xDz0LI" title="Большая маленькая ложь (2 сезон) — Русский трейлер (2019)">Большая маленькая ложь (2 сезон) — Русский трейлер (2019)</a>
+</h4>
+<div class="genrez">20.05.2019</div>
+</div>
+</div>
+
+<div class="rel showWatched">
+<div class="clear"></div>
+<a class="hLink" href="http://www.kinoglobe.ru/watch?v=7XVne9T60aQ">
+<img title="Первые — Трейлер (2018)" alt="Первые — Трейлер (2018)" src="http://www.kinoglobe.ru/info/images/trailers/7XVne9T60aQ.jpg" width="60" height="40">
+</a>
+<div class="easyfix">
+<h4>
+<a href="http://www.kinoglobe.ru/watch?v=7XVne9T60aQ" title="Первые — Трейлер (2018)">Первые — Трейлер (2018)</a>
+</h4>
+<div class="genrez">22.04.2018</div>
+</div>
+</div>
+
+<div class="rel showWatched">
+<div class="clear"></div>
+<a class="hLink" href="http://www.kinoglobe.ru/watch?v=GgpzKw-hO_A">
+<img title="Семейный бюджет — Трейлер (2021)" alt="Семейный бюджет — Трейлер (2021)" src="http://www.kinoglobe.ru/info/images/trailers/GgpzKw-hO_A.jpg" width="60" height="40">
+</a>
+<div class="easyfix">
+<h4>
+<a href="http://www.kinoglobe.ru/watch?v=GgpzKw-hO_A" title="Семейный бюджет — Трейлер (2021)">Семейный бюджет — Трейлер (2021)</a>
+</h4>
+<div class="genrez">16.08.2021</div>
+</div>
+</div>
+
+<div class="rel showWatched">
+<div class="clear"></div>
+<a class="hLink" href="http://www.kinoglobe.ru/watch?v=kIA3bXqVblg">
+<img title="Тор 3: Рагнарёк — Русское видео о злодее (2017)" alt="Тор 3: Рагнарёк — Русское видео о злодее (2017)" src="http://www.kinoglobe.ru/info/images/trailers/kIA3bXqVblg.jpg" width="60" height="40">
+</a>
+<div class="easyfix">
+<h4>
+<a href="http://www.kinoglobe.ru/watch?v=kIA3bXqVblg" title="Тор 3: Рагнарёк — Русское видео о злодее (2017)">Тор 3: Рагнарёк — Русское видео о злодее (2017)</a>
+</h4>
+<div class="genrez">14.10.2017</div>
+</div>
+</div>
+
+<div class="rel showWatched">
+<div class="clear"></div>
+<a class="hLink" href="http://www.kinoglobe.ru/watch?v=urFARq0bY1c">
+<img title="Магия превыше всего — Тизер-трейлер (2018)" alt="Магия превыше всего — Тизер-трейлер (2018)" src="http://www.kinoglobe.ru/info/images/trailers/urFARq0bY1c.jpg" width="60" height="40">
+</a>
+<div class="easyfix">
+<h4>
+<a href="http://www.kinoglobe.ru/watch?v=urFARq0bY1c" title="Магия превыше всего — Тизер-трейлер (2018)">Магия превыше всего — Тизер-трейлер (2018)</a>
+</h4>
+<div class="genrez">12.08.2017</div>
+</div>
+</div>
+
+<div class="rel showWatched">
+<div class="clear"></div>
+<a class="hLink" href="http://www.kinoglobe.ru/watch?v=e_alynKTFPk">
+<img title="Call of Duty: Modern Warfare — Русский трейлер (2019)" alt="Call of Duty: Modern Warfare — Русский трейлер (2019)" src="http://www.kinoglobe.ru/info/images/trailers/e_alynKTFPk.jpg" width="60" height="40">
+</a>
+<div class="easyfix">
+<h4>
+<a href="http://www.kinoglobe.ru/watch?v=e_alynKTFPk" title="Call of Duty: Modern Warfare — Русский трейлер (2019)">Call of Duty: Modern Warfare — Русский трейлер (2019)</a>
+</h4>
+<div class="genrez">30.05.2019</div>
+</div>
+</div>
+
+<div class="rel showWatched">
+<div class="clear"></div>
+<a class="hLink" href="http://www.kinoglobe.ru/watch?v=xJGcyVnPbxw">
+<img title="Аркейн (1 сезон) — Русский трейлер #2 (Субтитры, 2021)" alt="Аркейн (1 сезон) — Русский трейлер #2 (Субтитры, 2021)" src="http://www.kinoglobe.ru/info/images/trailers/xJGcyVnPbxw.jpg" width="60" height="40">
+</a>
+<div class="easyfix">
+<h4>
+<a href="http://www.kinoglobe.ru/watch?v=xJGcyVnPbxw" title="Аркейн (1 сезон) — Русский трейлер #2 (Субтитры, 2021)">Аркейн (1 сезон) — Русский трейлер #2 (Субтитры, 2021)</a>
+</h4>
+<div class="genrez">01.11.2021</div>
+</div>
+</div>
+
+<div class="rel showWatched">
+<div class="clear"></div>
+<a class="hLink" href="http://www.kinoglobe.ru/watch?v=6MMeSS6UlBg">
+<img title="Таллула — Русский трейлер (2016)" alt="Таллула — Русский трейлер (2016)" src="http://www.kinoglobe.ru/info/images/trailers/6MMeSS6UlBg.jpg" width="60" height="40">
+</a>
+<div class="easyfix">
+<h4>
+<a href="http://www.kinoglobe.ru/watch?v=6MMeSS6UlBg" title="Таллула — Русский трейлер (2016)">Таллула — Русский трейлер (2016)</a>
+</h4>
+<div class="genrez">01.08.2016</div>
+</div>
+</div>
+
+<div class="rel showWatched">
+<div class="clear"></div>
+<a class="hLink" href="http://www.kinoglobe.ru/watch?v=eNJ2vZqgu20">
+<img title="Нежная рука закона — Русский трейлер (2019)" alt="Нежная рука закона — Русский трейлер (2019)" src="http://www.kinoglobe.ru/info/images/trailers/eNJ2vZqgu20.jpg" width="60" height="40">
+</a>
+<div class="easyfix">
+<h4>
+<a href="http://www.kinoglobe.ru/watch?v=eNJ2vZqgu20" title="Нежная рука закона — Русский трейлер (2019)">Нежная рука закона — Русский трейлер (2019)</a>
+</h4>
+<div class="genrez">13.03.2019</div>
+</div>
+</div>
+
+<div class="rel showWatched">
+<div class="clear"></div>
+<a class="hLink" href="http://www.kinoglobe.ru/watch?v=5a5TIB1v_Dw">
+<img title="Страна призраков — Русский трейлер (2018)" alt="Страна призраков — Русский трейлер (2018)" src="http://www.kinoglobe.ru/info/images/trailers/5a5TIB1v_Dw.jpg" width="60" height="40">
+</a>
+<div class="easyfix">
+<h4>
+<a href="http://www.kinoglobe.ru/watch?v=5a5TIB1v_Dw" title="Страна призраков — Русский трейлер (2018)">Страна призраков — Русский трейлер (2018)</a>
+</h4>
+<div class="genrez">12.02.2018</div>
+</div>
+</div>
+
+<div class="rel showWatched">
+<div class="clear"></div>
+<a class="hLink" href="http://www.kinoglobe.ru/watch?v=v7kR93GpCXA">
+<img title="Человек-невидимка  — Русский трейлер (2020)" alt="Человек-невидимка  — Русский трейлер (2020)" src="http://www.kinoglobe.ru/info/images/trailers/v7kR93GpCXA.jpg" width="60" height="40">
+</a>
+<div class="easyfix">
+<h4>
+<a href="http://www.kinoglobe.ru/watch?v=v7kR93GpCXA" title="Человек-невидимка  — Русский трейлер (2020)">Человек-невидимка  — Русский трейлер (2020)</a>
+</h4>
+<div class="genrez">07.11.2019</div>
+</div>
+</div>
+
+<div class="rel showWatched">
+<div class="clear"></div>
+<a class="hLink" href="http://www.kinoglobe.ru/watch?v=Uvncj9VUjzg">
+<img title="ВандаВижен (1 сезон) — Русский трейлер #2 (Субтитры, 4К, 2021)" alt="ВандаВижен (1 сезон) — Русский трейлер #2 (Субтитры, 4К, 2021)" src="http://www.kinoglobe.ru/info/images/trailers/Uvncj9VUjzg.jpg" width="60" height="40">
+</a>
+<div class="easyfix">
+<h4>
+<a href="http://www.kinoglobe.ru/watch?v=Uvncj9VUjzg" title="ВандаВижен (1 сезон) — Русский трейлер #2 (Субтитры, 4К, 2021)">ВандаВижен (1 сезон) — Русский трейлер #2 (Субтитры, 4К, 2021)</a>
+</h4>
+<div class="genrez">15.12.2020</div>
+</div>
+</div>
+
+<div class="rel showWatched">
+<div class="clear"></div>
+<a class="hLink" href="http://www.kinoglobe.ru/watch?v=0029885H0Qk">
+<img title="Лягушонок Риббит — Русский трейлер (2018)" alt="Лягушонок Риббит — Русский трейлер (2018)" src="http://www.kinoglobe.ru/info/images/trailers/0029885H0Qk.jpg" width="60" height="40">
+</a>
+<div class="easyfix">
+<h4>
+<a href="http://www.kinoglobe.ru/watch?v=0029885H0Qk" title="Лягушонок Риббит — Русский трейлер (2018)">Лягушонок Риббит — Русский трейлер (2018)</a>
+</h4>
+<div class="genrez">14.09.2018</div>
+</div>
+</div>
+
+<div class="rel showWatched">
+<div class="clear"></div>
+<a class="hLink" href="http://www.kinoglobe.ru/watch?v=rRm42Wp8lz0">
+<img title="Far Cry 5 — Русский трейлер игры (2018)" alt="Far Cry 5 — Русский трейлер игры (2018)" src="http://www.kinoglobe.ru/info/images/trailers/rRm42Wp8lz0.jpg" width="60" height="40">
+</a>
+<div class="easyfix">
+<h4>
+<a href="http://www.kinoglobe.ru/watch?v=rRm42Wp8lz0" title="Far Cry 5 — Русский трейлер игры (2018)">Far Cry 5 — Русский трейлер игры (2018)</a>
+</h4>
+<div class="genrez">16.12.2017</div>
+</div>
+</div>
+
+<div class="rel showWatched">
+<div class="clear"></div>
+<a class="hLink" href="http://www.kinoglobe.ru/watch?v=BMbigFpCdew">
+<img title="Чудо-Женщина / Wonder Woman - Фан - фильм (2013)" alt="Чудо-Женщина / Wonder Woman - Фан - фильм (2013)" src="http://www.kinoglobe.ru/info/images/trailers/BMbigFpCdew.jpg" width="60" height="40">
+</a>
+<div class="easyfix">
+<h4>
+<a href="http://www.kinoglobe.ru/watch?v=BMbigFpCdew" title="Чудо-Женщина / Wonder Woman - Фан - фильм (2013)">Чудо-Женщина / Wonder Woman - Фан - фильм (2013)</a>
+</h4>
+<div class="genrez">01.10.2013</div>
+</div>
+</div>
+
+<div class="rel showWatched">
+<div class="clear"></div>
+<a class="hLink" href="http://www.kinoglobe.ru/watch?v=7f8P-H5SY4k">
+<img title="Суперзвезда — Русский трейлер (2021)" alt="Суперзвезда — Русский трейлер (2021)" src="http://www.kinoglobe.ru/info/images/trailers/7f8P-H5SY4k.jpg" width="60" height="40">
+</a>
+<div class="easyfix">
+<h4>
+<a href="http://www.kinoglobe.ru/watch?v=7f8P-H5SY4k" title="Суперзвезда — Русский трейлер (2021)">Суперзвезда — Русский трейлер (2021)</a>
+</h4>
+<div class="genrez">31.08.2021</div>
+</div>
+</div>
+
+<div class="rel showWatched">
+<div class="clear"></div>
+<a class="hLink" href="http://www.kinoglobe.ru/watch?v=vJYDLbbqWrc">
+<img title="Малхолланд Драйв — Русский трейлер (2001)" alt="Малхолланд Драйв — Русский трейлер (2001)" src="http://www.kinoglobe.ru/info/images/trailers/vJYDLbbqWrc.jpg" width="60" height="40">
+</a>
+<div class="easyfix">
+<h4>
+<a href="http://www.kinoglobe.ru/watch?v=vJYDLbbqWrc" title="Малхолланд Драйв — Русский трейлер (2001)">Малхолланд Драйв — Русский трейлер (2001)</a>
+</h4>
+<div class="genrez">20.12.2020</div>
+</div>
+</div>
+
+<div class="rel showWatched">
+<div class="clear"></div>
+<a class="hLink" href="http://www.kinoglobe.ru/watch?v=7NP2ZkY8QZw">
+<img title="Тайная жизнь домашних животных 2 — Русский трейлер #6 (2019)" alt="Тайная жизнь домашних животных 2 — Русский трейлер #6 (2019)" src="http://www.kinoglobe.ru/info/images/trailers/7NP2ZkY8QZw.jpg" width="60" height="40">
+</a>
+<div class="easyfix">
+<h4>
+<a href="http://www.kinoglobe.ru/watch?v=7NP2ZkY8QZw" title="Тайная жизнь домашних животных 2 — Русский трейлер #6 (2019)">Тайная жизнь домашних животных 2 — Русский трейлер #6 (2019)</a>
+</h4>
+<div class="genrez">30.04.2019</div>
+</div>
+</div>
+
+<div class="rel showWatched">
+<div class="clear"></div>
+<a class="hLink" href="http://www.kinoglobe.ru/watch?v=T1MYJvZxMY0">
+<img title="Resident Evil Village — Русский трейлер (Субтитры, 2021)" alt="Resident Evil Village — Русский трейлер (Субтитры, 2021)" src="http://www.kinoglobe.ru/info/images/trailers/T1MYJvZxMY0.jpg" width="60" height="40">
+</a>
+<div class="easyfix">
+<h4>
+<a href="http://www.kinoglobe.ru/watch?v=T1MYJvZxMY0" title="Resident Evil Village — Русский трейлер (Субтитры, 2021)">Resident Evil Village — Русский трейлер (Субтитры, 2021)</a>
+</h4>
+<div class="genrez">13.06.2020</div>
+</div>
+</div>
+
+</div></div></div><div class="goNext"><a class="carousel-nav carousel-next nextTrailer" onclick="return false" href="#"></a></div>
+</div><div style="clear:both"></div>
+</div> 
+<div class="popular"><h2>Популярные сегодня</h2></div>
+<div>	
+	<div class="rel">
+
+<div class="headTop"><a href="http://www.kinoglobe.ru/main/1/">Биография</a></div>
+
+<div class="clear"></div>
+
+<a class="hLink" href="http://www.kinoglobe.ru/films/3365-otgoloski-proshlogo">
+
+<img width="60" height="80" title="Смотреть фильм Отголоски прошлого" alt="Смотреть фильм Отголоски прошлого" src="http://www.kinoglobe.ru/cinema/images/0fbb9075dfb5a11c5e75a486997da861.jpg">
+
+</a>
+
+<div class="easyfix">
+
+<h4>
+
+<a href="http://www.kinoglobe.ru/films/3365-otgoloski-proshlogo">Отголоски прошлого</a>
+
+</h4>
+
+<div class="genrez">Просмотров:11093</div>
+
+<div title="Оценка 2.5" class="stars-t1 stars-t125"></div>
+</div>
+
+</div>
+<div class="rel">
+
+<div class="headTop"><a href="http://www.kinoglobe.ru/main/2/">Боевик</a></div>
+
+<div class="clear"></div>
+
+<a class="hLink" href="http://www.kinoglobe.ru/films/12-banda-kelli">
+
+<img width="60" height="80" title="Смотреть фильм Банда Келли" alt="Смотреть фильм Банда Келли" src="http://www.kinoglobe.ru/cinema/images/f8f0f2f4a78a774593d85e01874c99cc.jpg">
+
+</a>
+
+<div class="easyfix">
+
+<h4>
+
+<a href="http://www.kinoglobe.ru/films/12-banda-kelli">Банда Келли</a>
+
+</h4>
+
+<div class="genrez">Просмотров:7592</div>
+
+<div title="Оценка 2.5" class="stars-t1 stars-t125"></div>
+</div>
+
+</div>
+<div class="rel">
+
+<div class="headTop"><a href="http://www.kinoglobe.ru/main/3/">Вестерн</a></div>
+
+<div class="clear"></div>
+
+<a class="hLink" href="http://www.kinoglobe.ru/films/2045-svoy-sredi-chujih-chujoy-sredi-svoih">
+
+<img width="60" height="80" title="Смотреть фильм Свой среди чужих, чужой среди своих" alt="Смотреть фильм Свой среди чужих, чужой среди своих" src="http://www.kinoglobe.ru/cinema/images/e67642ed97632908791d4c1605ac60f4.jpg">
+
+</a>
+
+<div class="easyfix">
+
+<h4>
+
+<a href="http://www.kinoglobe.ru/films/2045-svoy-sredi-chujih-chujoy-sredi-svoih">Свой среди чужих, чужой среди своих</a>
+
+</h4>
+
+<div class="genrez">Просмотров:9718</div>
+
+<div title="Оценка 3" class="stars-t1 stars-t130"></div>
+</div>
+
+</div>
+<div class="rel">
+
+<div class="headTop"><a href="http://www.kinoglobe.ru/main/4/">Военный</a></div>
+
+<div class="clear"></div>
+
+<a class="hLink" href="http://www.kinoglobe.ru/films/235-ona-zashshishshaet-rodinu">
+
+<img width="60" height="80" title="Смотреть фильм Она защищает родину" alt="Смотреть фильм Она защищает родину" src="http://www.kinoglobe.ru/cinema/images/091f4f8a489b8b8facafa13c56fa5cbe.jpg">
+
+</a>
+
+<div class="easyfix">
+
+<h4>
+
+<a href="http://www.kinoglobe.ru/films/235-ona-zashshishshaet-rodinu">Она защищает родину</a>
+
+</h4>
+
+<div class="genrez">Просмотров:8512</div>
+
+<div title="Оценка 2.5" class="stars-t1 stars-t125"></div>
+</div>
+
+</div>
+<div class="rel">
+
+<div class="headTop"><a href="http://www.kinoglobe.ru/main/5/">Детектив</a></div>
+
+<div class="clear"></div>
+
+<a class="hLink" href="http://www.kinoglobe.ru/films/218-syshshik">
+
+<img width="60" height="80" title="Смотреть фильм Сыщик" alt="Смотреть фильм Сыщик" src="http://www.kinoglobe.ru/cinema/images/fcc79cebb6587732895415a0c8f1af58.jpg">
+
+</a>
+
+<div class="easyfix">
+
+<h4>
+
+<a href="http://www.kinoglobe.ru/films/218-syshshik">Сыщик</a>
+
+</h4>
+
+<div class="genrez">Просмотров:7380</div>
+
+<div title="Оценка 3" class="stars-t1 stars-t130"></div>
+</div>
+
+</div>
+<div class="rel">
+
+<div class="headTop"><a href="http://www.kinoglobe.ru/main/6/">Документальный</a></div>
+
+<div class="clear"></div>
+
+<a class="hLink" href="http://www.kinoglobe.ru/films/151-polyarnaya-istoriya">
+
+<img width="60" height="80" title="Смотреть фильм Полярная история" alt="Смотреть фильм Полярная история" src="http://www.kinoglobe.ru/cinema/images/092c389126b25d6140c90bdf791ffcff.jpg">
+
+</a>
+
+<div class="easyfix">
+
+<h4>
+
+<a href="http://www.kinoglobe.ru/films/151-polyarnaya-istoriya">Полярная история</a>
+
+</h4>
+
+<div class="genrez">Просмотров:11777</div>
+
+<div title="Оценка 2.5" class="stars-t1 stars-t125"></div>
+</div>
+
+</div>
+<div class="rel">
+
+<div class="headTop"><a href="http://www.kinoglobe.ru/main/7/">Драма</a></div>
+
+<div class="clear"></div>
+
+<a class="hLink" href="http://www.kinoglobe.ru/films/8-moya-nevesta-iz-bollivuda">
+
+<img width="60" height="80" title="Смотреть фильм Моя невеста из Болливуда" alt="Смотреть фильм Моя невеста из Болливуда" src="http://www.kinoglobe.ru/cinema/images/10fa2155f644e1f32caa014535ce1e38.jpg">
+
+</a>
+
+<div class="easyfix">
+
+<h4>
+
+<a href="http://www.kinoglobe.ru/films/8-moya-nevesta-iz-bollivuda">Моя невеста из Болливуда</a>
+
+</h4>
+
+<div class="genrez">Просмотров:8440</div>
+
+<div title="Оценка 3" class="stars-t1 stars-t130"></div>
+</div>
+
+</div>
+<div class="rel">
+
+<div class="headTop"><a href="http://www.kinoglobe.ru/main/8/">Индийский</a></div>
+
+<div class="clear"></div>
+
+<a class="hLink" href="http://www.kinoglobe.ru/films/1294-kovarnyy-drug">
+
+<img width="60" height="80" title="Смотреть фильм Коварный друг" alt="Смотреть фильм Коварный друг" src="http://www.kinoglobe.ru/cinema/images/5b64148a58e16bbbe008f67540969179.jpg">
+
+</a>
+
+<div class="easyfix">
+
+<h4>
+
+<a href="http://www.kinoglobe.ru/films/1294-kovarnyy-drug">Коварный друг</a>
+
+</h4>
+
+<div class="genrez">Просмотров:7059</div>
+
+<div title="Оценка 2.5" class="stars-t1 stars-t125"></div>
+</div>
+
+</div>
+<div class="rel">
+
+<div class="headTop"><a href="http://www.kinoglobe.ru/main/9/">Исторический</a></div>
+
+<div class="clear"></div>
+
+<a class="hLink" href="http://www.kinoglobe.ru/films/339-odnajdy-v-koree">
+
+<img width="60" height="80" title="Смотреть фильм Однажды в Корее" alt="Смотреть фильм Однажды в Корее" src="http://www.kinoglobe.ru/cinema/images/d5c098225032c8c4ad5003948bb42a8d.jpg">
+
+</a>
+
+<div class="easyfix">
+
+<h4>
+
+<a href="http://www.kinoglobe.ru/films/339-odnajdy-v-koree">Однажды в Корее</a>
+
+</h4>
+
+<div class="genrez">Просмотров:9233</div>
+
+<div title="Оценка 2.5" class="stars-t1 stars-t125"></div>
+</div>
+
+</div>
+<div class="rel">
+
+<div class="headTop"><a href="http://www.kinoglobe.ru/main/11/">Комедия</a></div>
+
+<div class="clear"></div>
+
+<a class="hLink" href="http://www.kinoglobe.ru/films/24-shestnadtsat-svechey">
+
+<img width="60" height="80" title="Смотреть фильм Шестнадцать свечей" alt="Смотреть фильм Шестнадцать свечей" src="http://www.kinoglobe.ru/cinema/images/f1f14730abe846d8ad865a99644b2369.jpg">
+
+</a>
+
+<div class="easyfix">
+
+<h4>
+
+<a href="http://www.kinoglobe.ru/films/24-shestnadtsat-svechey">Шестнадцать свечей</a>
+
+</h4>
+
+<div class="genrez">Просмотров:10305</div>
+
+<div title="Оценка 2.5" class="stars-t1 stars-t125"></div>
+</div>
+
+</div>
+<div class="rel">
+
+<div class="headTop"><a href="http://www.kinoglobe.ru/main/12/">Криминал</a></div>
+
+<div class="clear"></div>
+
+<a class="hLink" href="http://www.kinoglobe.ru/films/15-geroy-odinochka">
+
+<img width="60" height="80" title="Смотреть фильм Герой - одиночка" alt="Смотреть фильм Герой - одиночка" src="http://www.kinoglobe.ru/cinema/images/423883b1171936fe817d1c008dba1e9e.jpg">
+
+</a>
+
+<div class="easyfix">
+
+<h4>
+
+<a href="http://www.kinoglobe.ru/films/15-geroy-odinochka">Герой - одиночка</a>
+
+</h4>
+
+<div class="genrez">Просмотров:12418</div>
+
+<div title="Оценка 2.5" class="stars-t1 stars-t125"></div>
+</div>
+
+</div>
+<div class="rel">
+
+<div class="headTop"><a href="http://www.kinoglobe.ru/main/13/">Мелодрама</a></div>
+
+<div class="clear"></div>
+
+<a class="hLink" href="http://www.kinoglobe.ru/films/96-eshshe-odna-iz-roda-boleyn">
+
+<img width="60" height="80" title="Смотреть фильм Еще одна из рода Болейн" alt="Смотреть фильм Еще одна из рода Болейн" src="http://www.kinoglobe.ru/cinema/images/4b074abb019214829e7fa636e95001db.jpg">
+
+</a>
+
+<div class="easyfix">
+
+<h4>
+
+<a href="http://www.kinoglobe.ru/films/96-eshshe-odna-iz-roda-boleyn">Еще одна из рода Болейн</a>
+
+</h4>
+
+<div class="genrez">Просмотров:7914</div>
+
+<div title="Оценка 2.5" class="stars-t1 stars-t125"></div>
+</div>
+
+</div>
+<div class="rel">
+
+<div class="headTop"><a href="http://www.kinoglobe.ru/main/14/">Музыкальный</a></div>
+
+<div class="clear"></div>
+
+<a class="hLink" href="http://www.kinoglobe.ru/films/528-vybor-sudby">
+
+<img width="60" height="80" title="Смотреть фильм Выбор судьбы" alt="Смотреть фильм Выбор судьбы" src="http://www.kinoglobe.ru/cinema/images/0e1c4d404e70d6a16fca3bf1ad4b3782.jpg">
+
+</a>
+
+<div class="easyfix">
+
+<h4>
+
+<a href="http://www.kinoglobe.ru/films/528-vybor-sudby">Выбор судьбы</a>
+
+</h4>
+
+<div class="genrez">Просмотров:10394</div>
+
+<div title="Оценка 2.5" class="stars-t1 stars-t125"></div>
+</div>
+
+</div>
+<div class="rel">
+
+<div class="headTop"><a href="http://www.kinoglobe.ru/main/15/">Отечественный</a></div>
+
+<div class="clear"></div>
+
+<a class="hLink" href="http://www.kinoglobe.ru/films/381-kogda-ne-hvataet-lyubvi">
+
+<img width="60" height="80" title="Смотреть фильм Когда не хватает любви" alt="Смотреть фильм Когда не хватает любви" src="http://www.kinoglobe.ru/cinema/images/7b8ead13a58b8165fd936706cc42cf45.jpg">
+
+</a>
+
+<div class="easyfix">
+
+<h4>
+
+<a href="http://www.kinoglobe.ru/films/381-kogda-ne-hvataet-lyubvi">Когда не хватает любви</a>
+
+</h4>
+
+<div class="genrez">Просмотров:9022</div>
+
+<div title="Оценка 2.5" class="stars-t1 stars-t125"></div>
+</div>
+
+</div>
+<div class="rel">
+
+<div class="headTop"><a href="http://www.kinoglobe.ru/main/16/">Приключения</a></div>
+
+<div class="clear"></div>
+
+<a class="hLink" href="http://www.kinoglobe.ru/films/129-dva-kapitana">
+
+<img width="60" height="80" title="Смотреть фильм Два капитана" alt="Смотреть фильм Два капитана" src="http://www.kinoglobe.ru/cinema/images/0927fa94bcb9c0a9ba42d52494d154e8.jpg">
+
+</a>
+
+<div class="easyfix">
+
+<h4>
+
+<a href="http://www.kinoglobe.ru/films/129-dva-kapitana">Два капитана</a>
+
+</h4>
+
+<div class="genrez">Просмотров:11507</div>
+
+<div title="Оценка 4" class="stars-t1 stars-t140"></div>
+</div>
+
+</div>
+<div class="rel">
+
+<div class="headTop"><a href="http://www.kinoglobe.ru/main/17/">Семейный</a></div>
+
+<div class="clear"></div>
+
+<a class="hLink" href="http://www.kinoglobe.ru/films/49-kosmicheskiy-djem">
+
+<img width="60" height="80" title="Смотреть фильм Космический Джем" alt="Смотреть фильм Космический Джем" src="http://www.kinoglobe.ru/cinema/images/3bd4744c2fe86bb9720d46062ff83be0.jpg">
+
+</a>
+
+<div class="easyfix">
+
+<h4>
+
+<a href="http://www.kinoglobe.ru/films/49-kosmicheskiy-djem">Космический Джем</a>
+
+</h4>
+
+<div class="genrez">Просмотров:11216</div>
+
+<div title="Оценка 2.5" class="stars-t1 stars-t125"></div>
+</div>
+
+</div>
+<div class="rel">
+
+<div class="headTop"><a href="http://www.kinoglobe.ru/main/18/">Сказка</a></div>
+
+<div class="clear"></div>
+
+<a class="hLink" href="http://www.kinoglobe.ru/films/2016-oslinaya-shkura">
+
+<img width="60" height="80" title="Смотреть фильм Ослиная шкура" alt="Смотреть фильм Ослиная шкура" src="http://www.kinoglobe.ru/cinema/images/092a9de7dc50f6e53a7089e71b89a005.jpg">
+
+</a>
+
+<div class="easyfix">
+
+<h4>
+
+<a href="http://www.kinoglobe.ru/films/2016-oslinaya-shkura">Ослиная шкура</a>
+
+</h4>
+
+<div class="genrez">Просмотров:10029</div>
+
+<div title="Оценка 2.5" class="stars-t1 stars-t125"></div>
+</div>
+
+</div>
+<div class="rel">
+
+<div class="headTop"><a href="http://www.kinoglobe.ru/main/19/">Спорт</a></div>
+
+<div class="clear"></div>
+
+<a class="hLink" href="http://www.kinoglobe.ru/films/743-restler">
+
+<img width="60" height="80" title="Смотреть фильм Рестлер" alt="Смотреть фильм Рестлер" src="http://www.kinoglobe.ru/cinema/images/6b9fb036d10da31d920e20ec76b155df.jpg">
+
+</a>
+
+<div class="easyfix">
+
+<h4>
+
+<a href="http://www.kinoglobe.ru/films/743-restler">Рестлер</a>
+
+</h4>
+
+<div class="genrez">Просмотров:10376</div>
+
+<div title="Оценка 2.5" class="stars-t1 stars-t125"></div>
+</div>
+
+</div>
+<div class="rel">
+
+<div class="headTop"><a href="http://www.kinoglobe.ru/main/20/">Триллер</a></div>
+
+<div class="clear"></div>
+
+<a class="hLink" href="http://www.kinoglobe.ru/films/63-skala">
+
+<img width="60" height="80" title="Смотреть фильм Скала" alt="Смотреть фильм Скала" src="http://www.kinoglobe.ru/cinema/images/f8ac2f63e8bed2efeebf110c17a07e02.jpg">
+
+</a>
+
+<div class="easyfix">
+
+<h4>
+
+<a href="http://www.kinoglobe.ru/films/63-skala">Скала</a>
+
+</h4>
+
+<div class="genrez">Просмотров:9271</div>
+
+<div title="Оценка 2.5" class="stars-t1 stars-t125"></div>
+</div>
+
+</div>
+<div class="rel">
+
+<div class="headTop"><a href="http://www.kinoglobe.ru/main/21/">Ужасы</a></div>
+
+<div class="clear"></div>
+
+<a class="hLink" href="http://www.kinoglobe.ru/films/16-zverskiy">
+
+<img width="60" height="80" title="Смотреть фильм Зверский" alt="Смотреть фильм Зверский" src="http://www.kinoglobe.ru/cinema/images/08f9d69fc13911c14dee4633160bb585.jpg">
+
+</a>
+
+<div class="easyfix">
+
+<h4>
+
+<a href="http://www.kinoglobe.ru/films/16-zverskiy">Зверский</a>
+
+</h4>
+
+<div class="genrez">Просмотров:9611</div>
+
+<div title="Оценка 2.5" class="stars-t1 stars-t125"></div>
+</div>
+
+</div>
+<div class="rel">
+
+<div class="headTop"><a href="http://www.kinoglobe.ru/main/22/">Фантастика</a></div>
+
+<div class="clear"></div>
+
+<a class="hLink" href="http://www.kinoglobe.ru/films/44-evolyutsiya">
+
+<img width="60" height="80" title="Смотреть фильм Эволюция" alt="Смотреть фильм Эволюция" src="http://www.kinoglobe.ru/cinema/images/d9ad52cb047017023a8071a5d7351758.jpg">
+
+</a>
+
+<div class="easyfix">
+
+<h4>
+
+<a href="http://www.kinoglobe.ru/films/44-evolyutsiya">Эволюция</a>
+
+</h4>
+
+<div class="genrez">Просмотров:12101</div>
+
+<div title="Оценка 2.5" class="stars-t1 stars-t125"></div>
+</div>
+
+</div>
+<div class="rel">
+
+<div class="headTop"><a href="http://www.kinoglobe.ru/main/23/">Фэнтези</a></div>
+
+<div class="clear"></div>
+
+<a class="hLink" href="http://www.kinoglobe.ru/films/5782-neobychaynye-priklyucheniya-adel">
+
+<img width="60" height="80" title="Смотреть фильм Необычайные приключения Адель" alt="Смотреть фильм Необычайные приключения Адель" src="http://www.kinoglobe.ru/cinema/images/71833j.jpg">
+
+</a>
+
+<div class="easyfix">
+
+<h4>
+
+<a href="http://www.kinoglobe.ru/films/5782-neobychaynye-priklyucheniya-adel">Необычайные приключения Адель</a>
+
+</h4>
+
+<div class="genrez">Просмотров:7221</div>
+
+<div title="Оценка 2.5" class="stars-t1 stars-t125"></div>
+</div>
+
+</div>
+
+</div> 
+		</div>
+		<!-- END: RIGHT COLUMN -->
+		
+	</div>
+	</div>
+</div>
+</div>
+
+<!-- BEGIN: BOTTOM SPOTLIGHT -->
+<div id="ja-botslwrap">
+	<div id="ja-botsl" class="clearfix">
+
+	  
+	  
+	  	  <div class="ja-box-full" style="width:100%;">
+					<div class="moduletable">
+
+					<h3>KinoGlobe.RU</h3>
+					
+
+
+		</div>
+		
+		<div id="hpFooter">
+		
+<div class="firstF">
+		<ul class="blq-footer-first">
+<li>
+<a href="http://www.kinoglobe.ru/contact/" title="Обратная связь">Обратная связь</a>
+</li>
+<li>
+<a href="http://www.kinoglobe.ru/favorites/" title="Моя фильмотека">Моя фильмотека</a>
+</li>
+<li>
+<a href="http://www.kinoglobe.ru/Gbook/" title="Поиск">Гостевая</a>
+</li>
+</ul>
+      </div>
+	  <div class="firstF">
+		<ul class="blq-footer-first">
+<li>
+<a href="http://www.kinoglobe.ru/tvonline/" title="ТВ онлайн">ТВ онлайн</a>
+</li>
+<li>
+<a href="http://www.kinoglobe.ru/radio/" title="Радио онлайн">Радио онлайн</a>
+</li>
+
+</ul>
+      </div>
+	  <div class="firstF">
+		<ul class="blq-footer-first">
+<li>
+<a href="http://www.kinoglobe.ru/main/" title="Фильмы онлайн">Фильмы онлайн</a>
+</li>
+<li>
+<a href="http://www.kinoglobe.ru/sequels/" title="Сериалы онлайн">Сериалы онлайн</a>
+</li>
+<li>
+<a href="http://www.kinoglobe.ru/cartoons/" title="Мультфильмы онлайн">Мультфильмы онлайн</a>
+</li>
+</ul>
+      </div>
+		
+		</div>
+	
+	  </div>
+	  
+	  
+	</div>
+</div>
+<!-- END: BOTTOM SPOTLIGHT -->
+
+
+<!-- BEGIN: FOOTER -->
+<div id="ja-footerwrap">
+<div id="ja-footer" class="clearfix">
+
+	<div id="ja-footnav">
+	
+
+	</div>
+
+	<div class="copyright">
+			Created by Alexander Tsybusky
+	</div>
+
+	<div class="ja-cert">
+	
+	<div style="margin-right:200px; position:relative; display:block;"><a href="http://www.kinoglobe.ru/services/rss" target="_blank"><img src="http://www.kinoglobe.ru/images/rss.gif" title="Новые фильмы"></a></div>
+	
+
+	</div>
+<div style="position:relative; display:block; float:right">
+<span id="top100_widget"></span>
+<script>!function(t,e,o){(t[o]=t[o]||[]).push(function(){var e={project:2355640,element:"top100_widget"}
+try{t.top100Counter=new top100(e)}catch(o){}})
+var n=e.getElementsByTagName("script")[0],p=e.createElement("script"),r=function(){n.parentNode.insertBefore(p,n)}
+p.type="text/javascript",p.async=!0,p.src=("https:"==e.location.protocol?"https:":"http:")+"//st.top100.ru/top100/top100.js?","[object Opera]"==t.opera?e.addEventListener("DOMContentLoaded",r,!1):r()}(window,document,"_top100q") </script>
+
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t44.2;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet' "+
+"border='0' width='31' height='31'></a>")
+//--></script><!--/LiveInternet-->
+
+	</div>
+
+</div>
+</div>
+
+<!-- END: FOOTER -->
+
+<div align="right"></div>
+</div>
+
+
+</div></body></html>
