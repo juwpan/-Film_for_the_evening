@@ -14,11 +14,11 @@ end
 directors = films_collection.directors
 
 # Сама программа
-puts 'Программа "Фильм на вечер"'.colorize(:blue)
+puts 'Программа "Фильм на вечер"'.colorize(:green)
 puts
 
 directors.uniq.each.with_index(1) do |director, index|
-  puts "#{index}:#{director}"
+  puts "#{index}:#{director.colorize(:light_blue)}"
 end
 
 puts 'Фильм какого режиссера вы хотите сегодня посмотреть?'

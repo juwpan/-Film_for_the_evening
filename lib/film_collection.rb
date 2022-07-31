@@ -23,8 +23,10 @@ class FilmCollection
         title = text.css('.title').text
         director = text.css('.director').children[1].text.strip
         year = text.css('.year').children[1].text.strip.to_i
+        descr = text.css('.descr').children[1].text
+        link = text.css('.go_watch a').map { |link| link['href'] }
 
-        films_collections << Film.new(title, director, year)
+        films_collections << Film.new(title, director, year, descr, link)
       end
       new(films_collections)
     end
