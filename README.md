@@ -25,7 +25,7 @@ $ git clone https://github.com/juwpan/film_for_the_evening.git
 
 ```
 ```
-$ cd film_for_the_evening.git
+$ cd film_for_the_evening
 ```
 
 ### Установка зависимостей
