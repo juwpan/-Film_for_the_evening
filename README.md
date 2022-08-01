@@ -1,7 +1,6 @@
 # Фильм на вечер
 
-Программа  рекомендации фильма на вечер с сайта [KinoGlobe.RU](http://www.kinoglobe.ru/
-index.php).
+Программа  рекомендации фильма на вечер с сайта [KinoGlobe.RU](http://www.kinoglobe.ru/index.php).
 
 #### Описание:
 
